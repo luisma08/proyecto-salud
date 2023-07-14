@@ -1,0 +1,19 @@
+.slider {
+    //max-width: 360px;
+    width: 100%;
+    overflow: hidden;
+
+    //@include desktop{
+    //    width: 50%;
+    //}
+}
+
+.swiper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    &-pagination{
+        position: static!important;
+    }
+}

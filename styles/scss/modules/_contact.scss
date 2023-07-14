@@ -1,0 +1,47 @@
+.contact{
+    background-color: #1F8949;
+    background-image: url("../../assets/img/bg-contact.webp");
+    padding-top: 28px;
+    padding-bottom: 80px;
+
+    &__title, &__description{
+        margin: 0;
+        color: var(--primary-text-color);
+    }
+
+    &__img{
+        display: flex;
+        max-width: 360px;
+        width: 100%;
+        height: 206px;
+
+        @include desktop{
+            max-width: 545px;
+            width: 100%;
+            height: 358px;
+        }
+    }
+
+    &__title{
+        font-size: var(--third-text-font-size);
+        text-align: center;
+        line-height: 2.25rem;
+        font-weight: 700;
+
+        @include desktop{
+            font-size: 2.813rem;
+            line-height: 3.375rem;
+        }
+    }
+
+    &__description{
+        font-size: var(--primary-p-font-size);
+        font-weight: 500;
+        line-height: 1.125rem;
+
+        @include desktop{
+            font-size: var(--fifth-text-font-size);
+            line-height: 1.5rem;
+        }
+    }
+}

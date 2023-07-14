@@ -1,0 +1,86 @@
+.form{
+    font-family: var(--primary-font-family);
+    background-color: #FFFFFF;
+    padding: 1.125rem;
+    border: 5px solid #80CE66;
+    border-radius: 10px;
+    margin-top: -2.625rem;
+
+    &__img{
+        max-width: 360px;
+
+        @include desktop{
+            max-width: 450px;
+        }
+    }
+    
+    &__legend{
+        color: var(--primary-text-color);
+        font-size: var(--primary-text-font-size);
+        margin: 0;
+    }
+    
+    &__label{
+        font-size: var(--primary-text-font-size);
+        color: 0.313rem var(--primary-text-color);
+    }
+    
+    &__input, &__textarea, &__select{
+        padding: 0.5rem;
+        border: 1px solid var(--secondary-border-color);
+        border-radius: 5px;
+    }
+    
+    &__input, &__textarea{
+        font-family: var(--primary-font-family);
+        font-size: var(--nav-primary-font-size);
+        color: var(--reverse-primary-text-color);
+        font-weight: 500;
+    }
+
+    &__input::placeholder, &__textarea::placeholder{
+        font-family: var(--primary-font-family);
+        font-size: var(--nav-primary-font-size);
+        color: var(--primary-input-color);
+        font-weight: 500;
+    }
+    
+    &__input:focus, &__textarea:focus, &__select:focus{
+        //border: 5px solid var(--secondary-highlight-color);
+        outline: none;
+        //color: var(--secondary-text-color);
+    }
+
+    &__select{
+        font-family: var(--primary-font-family);
+        font-size: var(--nav-primary-font-size);
+        font-weight: 500;
+
+        &--disabled{
+            color: var(--primary-input-color);
+        }
+
+        &--active{
+            color: var(--reverse-primary-text-color);
+        }
+    }
+    
+}
+
+.bg-color{
+    @include desktop{
+        background-color: var(--primary-theme-color);
+        box-shadow: 0 0 0.125rem var(--primary-shadow-color),
+        0 0 0.25rem var(--primary-shadow-color);
+        border-radius: var(--primary-border-radius);
+        overflow: hidden;
+        transition: box-shadow 0.25s;
+        padding: 2rem 0 3rem 0rem;
+        box-sizing: border-box;
+    }
+
+    &:hover {
+        box-shadow: 0 0 0.25rem 0 var(--primary-highlight-color);
+      }
+}
+

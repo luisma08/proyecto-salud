@@ -1,0 +1,49 @@
+:root {
+    scroll-behavior: smooth;
+    --primary-theme-color: #CFFFFF;
+    --secondary-theme-color: #07775E;
+    --primary-bg-color: #88D66E;
+    --secondary-bg-color: #1F8949;
+    --primary-text-color: #fff;
+    --secondary-text-color: #1F8949;
+    --third-text-color: #8C8C8C;
+    --span-text-color: #02B65B;
+    --reverse-primary-text-color: #000;
+    --primary-input-color: #9B9B9B;
+    --primary-p-color: #1F8949;
+    --secondary-p-color:rgba(112, 112, 112, 1);
+    --primary-shadow-color: #ffffff80;
+    --secondary-shadow-color: #ffffff40;
+    --reverse-primary-shadow-color: #00000080;
+    --reverse-secondary-shadow-color: #009953;
+    --primary-highlight-color: #1F8949;
+    --secondary-highlight-color: #02B65B;
+    --third-highlight-color: rgba(112, 112, 112, 1);
+    --primary-button-color: #61dafb;
+    --secondary-button-color: #5CD252;
+    --primary-border-color:#80CE66;
+    --secondary-border-color:#9B9B9B;
+    --reverse-primary-border-color:#ffffff;
+    --primary-font-family: 'Urbanist', sans-serif;
+    --max-width-container: 1024px;
+    --padding-section: 1.5rem;
+    --padding-container: 1.25rem;
+    --padding-responsive: 5rem;
+    --primary-border-radius: 0.625rem;
+    --nav-primary-font-size: 1.125rem; /* 18px */
+    --primary-text-font-size: 0.75rem; /* 12px */
+    --secondary-text-font-size: 1.125rem; /* 18px */
+    --third-text-font-size: 1.875rem; /* 30px */
+    --four-text-font-size: 2.875rem; /* 40px */
+    --fifth-text-font-size: 1.25; /* 20px */
+    --primary-p-font-size: 0.938rem; /* 15px */
+    --secondary-p-font-size: 1.125rem; /* 18px */
+  }
+  
+  @media (min-width:768px){
+    :root {
+      --max-width-container: 1024px;
+      --padding-section: 2rem;
+      --padding-container: 0.75rem;
+    }
+  }

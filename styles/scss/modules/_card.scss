@@ -1,0 +1,114 @@
+.card {
+    box-shadow: 0 0 0.125rem var(--primary-shadow-color), 0 0 0.25rem var(--primary-shadow-color);
+    border-radius: var(--primary-border-radius);
+    max-width: 360px;
+    overflow: hidden;
+    //transition: box-shadow 0.25s;
+    margin: auto;
+    //transition: transform 0.25s;
+    box-sizing: border-box;
+    width: 100%;
+
+    &__slide{
+      width: 190px;
+      height: 190px;
+    }
+
+    &__hover {
+      transition: box-shadow 0.25s;
+      transition: transform 0.25s;
+      //border: 0.0125rem solid var(--secondary-border-color);
+      &:hover {
+        box-shadow: 0 0 0.25rem 0 var(--third-highlight-color);
+        transform: scale(1.125);
+      }
+    }
+    
+    
+    &__header,
+    &__footer {
+      //background-color: var(--reverse-primary-shadow-color);
+      padding: 1rem;
+    }
+  
+    &__img{
+      display: flex;
+      width: 100%;
+      height: 266px;
+      object-fit: cover;
+
+      @include desktop{
+        height: 235px;
+      }
+    }
+
+    &__icon{
+        width: 50px;
+        height: 50px;
+        color: var(--primary-text-color);
+        border-radius: 50%;
+        box-sizing: border-box;
+        mix-blend-mode: luminosity;
+
+        @include desktop{
+          width: 72px;
+          height: 72px;
+        }
+    }
+    
+      
+    &__body {
+      background-color: var(--reverse-secondary-shadow-color);
+      padding: 1rem;
+      height: 180px;
+
+      &-services {
+          color: var(--secondary-text-color);
+          //padding: 1.2rem;
+        }
+        
+    }
+      
+    &__title {
+      font-size: var(--secondary-text-font-size);
+      margin: 0;
+      font-weight: 500;
+      //padding: 1rem 1rem;
+
+      &--primary{
+        color: var(--primary-text-color);
+        text-align: left;
+      }
+
+      &--secondary{
+        color: var(--primary-text-color);
+        text-align: center;
+      }
+    }
+    
+    &__subtitle {
+      font-size: 1.125rem;
+      text-align: center;
+      margin: 0;
+    }
+    
+    &__text {
+      font-size: var(--primary-p-font-size);
+      text-align: center;
+      margin: 0;
+      color: var(--secondary-text-color);
+      line-height: 1.125rem;
+      font-weight: 600;
+
+      @include desktop{
+        font-size: var(--secondary-text-font-size);
+        line-height: 1.375rem;
+      }
+    }
+      
+  }
+
+  .icon{
+    width: 100%;
+    animation: t-rotate 2.5s linear infinite;
+  }

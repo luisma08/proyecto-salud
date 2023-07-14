@@ -1,0 +1,412 @@
+.text-center{
+    text-align: center;
+}
+
+.d-none{
+    display: none;
+}
+
+.md\:d-none{
+    @include desktop{
+        display: none;
+    }
+}
+
+.d-block{
+    display: block;
+}
+
+.d-responsive{
+    display: block;
+
+    @include desktop{
+        display: none;
+    }
+}
+
+.d-responsive--reverse{
+    display: none;
+
+    @include desktop{
+        display: flex;
+    }
+}
+
+.p-relative {
+    position: relative;
+}
+
+.m-0{
+    margin: 0;
+}
+
+.mt-auto{
+    margin-top: auto;
+}
+
+.mt-xlg{
+    margin-top: 5rem;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-auto{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.mx-responsive{
+    margin-left: auto;
+    margin-right: auto;
+
+    @include desktop{
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+
+.my-scroll{
+    margin-top: 15.25rem;
+
+    @include desktop{
+        margin-top: 13.375rem;
+    }
+
+    &--1{
+        margin-top: 9.5rem;
+
+        @include desktop{
+            margin-top: 8.688rem;
+        }
+    }
+}
+
+.md\:m-none{
+    margin: none;
+}
+
+.scroll{
+    background-color: var(--primary-theme-color);
+}
+  
+.f-col{
+    flex-direction: column;
+}
+
+.flex-1{
+    flex:1;
+}
+
+.md\:f-elements--between{
+    align-items: center;
+    justify-content: center;
+}
+
+.gap-sm{
+    gap: calc(var(--padding-section) * 0.5);
+}
+.gap-md{
+    gap: var(--padding-section);
+}
+
+.gap-lg{
+    gap: calc(var(--padding-section) * 2.5);
+}
+
+.md\:gap-sm{
+    @include desktop{
+        gap: calc(var(--padding-section) * 0.5);
+    }
+}
+
+.p-relative{
+    position: relative;
+}
+
+.p-absolute{
+    position: absolute;
+}
+
+.p-fixed{
+    position: fixed;
+    padding: 1rem;
+    border-radius: 50%;
+    z-index: 999999;
+
+    &--primary{
+        bottom:1rem;
+        right: 1rem;
+        background-color: var(--secondary-button-color);
+    }
+
+    &--secondary{
+        bottom:1rem;
+        left: 1rem;
+        background-color: #00CC94;
+    }
+}
+
+.md\:f-row{
+    @include desktop{
+        flex-direction: row;
+    }
+
+    &--reverse{
+        @include desktop{
+            flex-direction: row-reverse;
+        }
+    }
+}
+
+.md\:f-col{
+    @include desktop{
+        flex-direction: column;
+    }
+}
+
+.md\:f-elements--start{
+    @include desktop{
+        justify-content: start;
+        align-items: start;
+    }
+}
+
+.md\:f-elements--center{
+    @include desktop{
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.md\:d-block{
+    @include desktop{
+        display: block;
+    }
+}
+
+.bg-green{
+    background-color: var(--primary-bg-color);
+}
+
+.bg-green .section{
+    &__description{
+        color: var(--primary-text-color);
+    }
+}
+
+.bg-dark-green{
+    background-color: var(--secondary-bg-color);
+}
+
+.bg-white{
+    background-color: #FFFFFF;
+}
+
+.bg-silver{
+    background-color: #CFD9CE;
+}
+
+.bg-light{
+    background-color: var(--primary-theme-color);
+}
+
+.bg-parallax{
+    background-image: url("../../assets/img/bg-parallax-1.webp");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    @include desktop{
+        background-image: url("../../assets/img/bg-parallax-2.png");
+        /* Full height */
+        height: 18.375rem;
+        width: 100%;
+
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+}
+
+.bg-img{
+    background-image: url("../../assets/img/bg-img-1.webp");
+    background-size: 100% 100%;
+    background-color: #88D66E;
+    background-repeat: no-repeat;
+
+    @include desktop{
+        background-image: url("../../assets/img/bg-img-2.webp");
+    }
+}
+
+.bg-img-wsp{
+    background-image: url("../../assets/img/wsp-hero.png");
+    background-size: 191px 266px;
+    height: 335px;
+    width: 208px;
+    background-repeat: no-repeat;
+    background-position: bottom 20px left;
+
+    @include desktop{
+        background-image: url("../../assets/img/wsp-hero-resp.png");
+        background-size: 100% 100%;
+        height: 548px;
+        padding-bottom: 42px;
+        padding-left: 96px;
+        background-position: bottom 0px left;
+    }
+}
+
+.py-sm{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.py-md{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+
+    @include desktop{
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+}
+
+.px-sm{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.px-md{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.p-responsive{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+    @include desktop{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+.p-responsive--section{
+    padding: 1.875rem;
+
+    @include desktop{
+        padding: 4rem;
+    }
+}
+
+.p-responsive--cta{
+    padding-top: 95px;
+    padding-bottom: 31px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    @include desktop{
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-auto{
+    width: auto;
+}
+
+.md\:w-50{
+    @include desktop{
+        width: 50%;
+    }
+}
+
+.md\:h-360{
+    @include desktop{
+        height: 360px;
+    }
+}
+
+.border{
+    box-shadow: 0 0 0.125rem var(--primary-shadow-color),
+    0 0 0.25rem var(--primary-shadow-color);
+    border-radius: var(--primary-border-radius);
+    border: 0.125rem solid var(--reverse-primary-border-color);
+    overflow: hidden;
+    box-sizing: border-box;
+
+    &__dotted{
+        border-style: dotted;
+        border-width: 0.2rem;
+        border-color: var(--primary-theme-color);
+    }
+}
+
+.border-cta{
+    box-sizing: border-box;
+    border: 5px solid #FFFFFF;
+    border-radius: 15px;
+}
+
+.h-0{
+    height: calc(100% - 8.9rem);
+    top: 8.9rem;
+}
+
+.h-1{
+    height: calc(100% - 5rem);
+    top: 5rem;
+}
+
+.h-100vh{
+    height: 100vh;
+}
+
+.more{
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 82.01%);
+    height: 332px;
+}
+
+.m-negative{
+    margin-top: -332px;
+}
+
+.link{
+    font-family: var(--primary-font-family);
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #1F8949;
+
+    @include desktop{
+        font-size: 30px;
+        line-height: 36px;
+    }
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+

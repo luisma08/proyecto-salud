@@ -1,0 +1,101 @@
+.banner{
+    --opacidad-negro: 0.5;
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home.webp");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    object-fit: cover;
+    //background: rgb(220,0,88);
+    //background: linear-gradient(90deg, rgba(220,0,88,0.8463760504201681) 0%, rgba(220,0,88,1) 10%, rgba(220,0,88,0.835171568627451) 100%);
+    box-sizing: border-box;
+    padding-bottom: 1.813rem;
+    height: 470px;
+    background-position: center;
+
+    &__social{
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");
+    }
+
+    @include desktop{
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");
+        height: 511px;
+        padding-bottom: 0;
+    }
+
+    &__container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 0.438rem;
+        text-align: center;
+        padding: 0;
+        
+        @include desktop{
+            height: 35rem;
+            width: 50%;
+            align-items: flex-start;
+            text-align: start;
+        }
+    }
+    
+    &__title, &__subtitle, &__description{
+        margin: 0;
+        //text-transform: uppercase;
+    }
+    
+    &__title{
+        font-size: 1.75rem;
+        color: var(--primary-text-color);
+        line-height: 2.125rem;
+        font-weight: 500;
+
+        @include desktop{
+            font-size: 3rem;
+            line-height: 3.125rem;
+        }
+        &-span{
+            color: var(--span-text-color);
+            font-size: 1.625rem;
+            font-weight: 800;
+
+            @include desktop{
+                font-size: 2.125rem;
+            }
+        }
+    }
+
+    &__subtitle{
+        font-size: 1.938rem;
+        line-height: 2.313rem;
+        font-weight: 500;
+        color: var(--primary-text-color);
+        @include desktop{
+            font-size: 2.188rem;
+            line-height: 2.625rem;
+        }
+    }
+    
+    &__description{
+        font-size: 1.25rem;
+        color: var(--primary-text-color);
+        @include desktop{
+            font-size: 1.225rem;
+        }
+    }
+
+    &__img{
+        margin: 0 auto;
+        padding: 1rem;
+        max-width: 250px;
+
+        @include desktop{
+            max-width: 100%;
+        }
+
+        &-hero{
+            width: 100%;
+        }
+    }
+}
+
+

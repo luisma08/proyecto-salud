@@ -750,8 +750,10 @@
 }
 .nav__logo {
   display: flex;
-  width: 280px;
-  height: 62px;
+  width: 160px;
+  height: 34px;
+  padding-top: 0.625rem;
+  padding-bottom: 0.625rem;
 }
 .nav__icon {
   position: absolute;
@@ -803,7 +805,7 @@
 }
 .list__link {
   position: relative;
-  color: var(--secondary-text-color);
+  color: var(--primary-p-color);
   font-weight: 500;
   text-decoration: none;
   transition: color 0.25s;

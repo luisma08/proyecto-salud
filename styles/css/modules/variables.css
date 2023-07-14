@@ -1,8 +1,8 @@
 :root {
     scroll-behavior: smooth;
-    --primary-theme-color: #CFFFFF;
-    --secondary-theme-color: #07775E;
-    --primary-bg-color: #88D66E;
+    --primary-theme-color: #FCE7F3;
+    --secondary-theme-color: #EC4899;
+    --primary-bg-color: #FFCAE4;
     --secondary-bg-color: #1F8949;
     --primary-text-color: #fff;
     --secondary-text-color: #1F8949;
@@ -10,13 +10,13 @@
     --span-text-color: #02B65B;
     --reverse-primary-text-color: #000;
     --primary-input-color: #9B9B9B;
-    --primary-p-color: #1F8949;
+    --primary-p-color: #000000;
     --secondary-p-color:rgba(112, 112, 112, 1);
     --primary-shadow-color: #ffffff80;
     --secondary-shadow-color: #ffffff40;
     --reverse-primary-shadow-color: #00000080;
     --reverse-secondary-shadow-color: #009953;
-    --primary-highlight-color: #1F8949;
+    --primary-highlight-color: #EC4899;
     --secondary-highlight-color: #02B65B;
     --third-highlight-color: rgba(112, 112, 112, 1);
     --primary-button-color: #61dafb;

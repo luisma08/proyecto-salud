@@ -191,7 +191,7 @@
     }
 }
 
-.bg-green{
+.bg-rev-rose{
     background-color: var(--primary-bg-color);
 }
 
@@ -199,12 +199,12 @@
     background-color: #FFFFFF;
 }
 
-.bg-silver{
-    background-color: #CFD9CE;
+.bg-light-rose{
+    background-color: var(--primary-theme-color);
 }
 
-.bg-light{
-    background-color: var(--primary-theme-color);
+.bg-rose{
+    background-color: var(--secondary-theme-color);
 }
 
 .bg-parallax{

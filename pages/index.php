@@ -54,7 +54,7 @@
                         Apoya nuestra terapia vanguardista y brinda esperanza</br> a quienes más lo necesitan.
                     </p>
                     <div class="py-sm">
-                        <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> Ver Donación</a>
+                        <a class="button button--primary" href="#donaciones"><i class="bi bi-balloon-heart"></i> Ver Donación</a>
                     </div>
                 </div>
             </div>
@@ -86,14 +86,14 @@
                         de empresas e instituciones privadas y públicas. De esta manera, podemos continuar brindando ayuda y apoyo a las familias peruanas que más lo necesitan.
                     </p>
                     <div class="py-sm">
-                        <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación">Saber mas</a>
+                        <a class="button button--primary" href="/nosotros">Saber mas</a>
                     </div>
                 </div>
             </div>
         </section>
 
         <!-- DONACIONES -->
-        <section class="section">
+        <section class="section" id="donaciones">
             <div class="container">
                 <div class="f-elements f-col f-elements--center gap-md">
                     <p class="section__title section__title--primary">¿Qué puedes <span class="section__title--span">donar?</span></p>
@@ -105,7 +105,7 @@
                             </div>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -115,7 +115,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -125,7 +125,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -135,7 +135,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -145,7 +145,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -155,7 +155,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -165,7 +165,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -175,7 +175,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -202,7 +202,7 @@
                     </p>
                 </div>
                 <div class="f-elements f-col f-elements--center">
-                    <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> Haz tu donación</a>
+                    <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Haz tu donación</a>
                 </div>
             </div>
         </section>
@@ -285,7 +285,7 @@
                         Con profesionales altamente capacitados y una atención dedicada, nos esforzamos por brindar un alivio tangible y duradero a nuestros pacientes. Permítanos ser su aliado en el camino hacia una vida más saludable y plena.
                     </p>
                     <div class="py-sm">
-                        <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación">Saber mas</a>
+                        <a class="button button--primary" href="/terapias">Saber mas</a>
                     </div>
                 </div>
             </div>

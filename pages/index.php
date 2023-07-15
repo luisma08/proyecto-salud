@@ -45,11 +45,11 @@
     <!-- FIN -->
 
     <main class="main">
-        <section class="banner f-elements f-col f-elements--end my-scroll" id="banner">
-            <div class="container f-elements f-elements--responsive gap-sm">
+        <section class="banner my-scroll" id="banner">
+            <div class="container">
                 <div class="banner__container">
-                    <h1 class="banner__subtitle">Donaciones Lima.</h1>
-                    <p class="banner__title">TU DONACIÓN LLENA DE ESPERANZA A LOS QUE MÁS NECESITAN</p>
+                    <h1 class="banner__subtitle">Dona Salud.</h1>
+                    <p class="banner__title">¡Transforma Vidas!</p>
                     <p class="banner__description">
                         Cambia una vida. Dona hoy
                     </p>

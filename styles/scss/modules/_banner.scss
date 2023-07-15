@@ -1,6 +1,6 @@
 .banner{
     --opacidad-negro: 0.5;
-    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: cover;
@@ -16,7 +16,7 @@
     }
 
     @include desktop{
-        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.png");
         height: 511px;
         padding-bottom: 0;
     }
@@ -24,17 +24,21 @@
     &__container{
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content: end;
         align-items: center;
         gap: 0.438rem;
         text-align: center;
         padding: 0;
+        height: 470PX;
+        padding-bottom: 4.25rem;
+        box-sizing: border-box;
         
         @include desktop{
-            height: 35rem;
-            width: 50%;
+            height: inherit;
             align-items: flex-start;
             text-align: start;
+            height: 511px;
+            padding-bottom: 5.75rem;
         }
     }
     

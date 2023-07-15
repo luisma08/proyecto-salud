@@ -233,11 +233,13 @@
     }
     
     &--responsive{
-        flex-direction: column;
+      align-items: center;
+      justify-content: end;
 
-        @include desktop{
-          flex-direction: row;
-        }
+      @include desktop{
+        align-items: start;
+        justify-content: end;
+      }
     }
 
     &--responsive-2{

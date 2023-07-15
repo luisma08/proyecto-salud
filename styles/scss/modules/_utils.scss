@@ -277,6 +277,26 @@
     }
 }
 
+.py-lg{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    @include desktop{
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+}
+
+.py-xl{
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+
+    @include desktop{
+        padding-top: 4.5rem;
+        padding-bottom: 4.5rem;
+    }
+}
+
 .px-sm{
     padding-left: 1rem;
     padding-right: 1rem;
@@ -356,6 +376,15 @@
         border-width: 0.2rem;
         border-color: var(--primary-theme-color);
     }
+}
+
+.border-right{
+    box-shadow: 0 0 0.125rem var(--primary-shadow-color),
+    0 0 0.25rem var(--primary-shadow-color);
+    border-radius: 0px 64px 64px 0px;
+    //border: 0.125rem solid var(--reverse-primary-border-color);
+    overflow: hidden;
+    box-sizing: border-box;
 }
 
 .border-cta{

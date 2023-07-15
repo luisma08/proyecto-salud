@@ -36,6 +36,10 @@
           text-align: left;
         }
       }
+
+      &--span{
+        color:var(--primary-span-color);
+      }
     }
 
     &__subtitle{
@@ -167,12 +171,12 @@
     }
 
     &__img{
-      width: 230px;
-      height: 241px;
+      width: 376px;
+      height: 264px;
 
       @include desktop{
-        width: 345px;
-        height: 365px;
+        width: inherit;
+        height: inherit;
       }
     }
 
@@ -225,6 +229,11 @@
     &--center{
         align-items: center;
         justify-content: center;
+    }
+
+    &--justify-center{
+      align-items: start;
+      justify-content: center;
     }
 
     &--end{

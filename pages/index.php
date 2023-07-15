@@ -51,7 +51,7 @@
                     <h1 class="banner__subtitle">Dona Salud.</h1>
                     <p class="banner__title">¡Transforma Vidas!</p>
                     <p class="banner__description">
-                        Cambia una vida. Dona hoy
+                        Apoya nuestra terapia vanguardista y brinda esperanza</br> a quienes más lo necesitan.
                     </p>
                     <div class="py-sm">
                         <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> deseo donar</a>
@@ -60,108 +60,128 @@
             </div>
         </section>
         
+        <!--   QUIENES SOMOS  -->
+
+        <section class="py-xl" id="nosotros">
+            <div class="g-elements g-elements--responsive gap-md">
+                <div class="slider">
+                    <div class="swiper mySwiperNosotros">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                    <img src="./assets/img/nosotros/nosotros-1.jpeg" alt="" class="section__img border-right" />
+                            </div>
+                            <div class="swiper-slide">
+                                    <img src="./assets/img/nosotros/nosotros-2.jpeg" alt="" class="section__img border-right" />
+                            </div>
+                            <div class="swiper-slide">
+                                    <img src="./assets/img/nosotros/nosotros-3.jpeg" alt="" class="section__img border-right" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container f-elements f-col f-elements--justify-center gap-sm my-auto">
+                    <p class="section__title section__title--secondary">¿Quiénes <span class="section__title--span">Somos?</span></p>
+                    <p class="section__description section__description--primary">Somos un apasionado grupo de individuos con una fuerte vocación social que trabaja incansablemente 
+                        con un profundo amor por aquellos que menos tienen. Nuestra misión principal es difundir y promover nuestra labor, buscando donaciones tanto de personas como 
+                        de empresas e instituciones privadas y públicas. De esta manera, podemos continuar brindando ayuda y apoyo a las familias peruanas que más lo necesitan.
+                    </p>
+                    <div class="py-sm">
+                        <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación">Saber mas</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- DONACIONES -->
         <section class="section">
             <div class="container">
                 <div class="f-elements f-col f-elements--center gap-md">
-                    <p class="section__title section__title--primary">¿Qué puedes donar?</p>
-                    <div class="g-elements g-center gap-md g-template-columns">
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="card__icon f-elements f-elements--center">
-                                <img src="./assets/icon/cosas-usadas.svg" alt="donacion-de-cosas-usadas" class="icon">
+                    <p class="section__title section__title--primary">¿Qué puedes <span class="section__title--span">donar?</span></p>
+                    <div class="slider f-elements f-col f-elements--center">
+                        <div class="swiper mySwiperDonation">
+                            <div class="f-elements f-elements--end gap-sm py-sm">
+                                <div class="button-prev cursor-pointer"><img src="./assets/icon/button-prev.svg" alt="" /></div>
+                                <div class="button-next cursor-pointer"><img src="./assets/icon/button-next.svg" alt="" /></div>
                             </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--primary">Donación de cosas usadas</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="card__icon f-elements f-elements--center">
-                                <img src="./assets/icon/ropa.svg" alt="donacion-de-ropa" class="icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--primary">Donación de ropa</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="card__icon f-elements f-elements--center">
-                                <img src="./assets/icon/muebles.svg" alt="donacion-de-muebles" class="icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--primary">Donación de muebles</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="card__icon f-elements f-elements--center">
-                                <img src="./assets/icon/juguetes.svg" alt="donacion-de-jueguetes" class="icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--primary">Donación de juguetes</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="card__icon f-elements f-elements--center">
-                                <img src="./assets/icon/maquinas.svg" alt="donacion-de-maquinas" class="icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--primary">Donación de máquinas</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="card__icon f-elements f-elements--center">
-                                <img src="./assets/icon/salud.svg" alt="donacion-de-salud" class="icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--primary">Donación de salud</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="card__icon f-elements f-elements--center">
-                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-reciclaje" class="icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--primary">Donación de reciclaje</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="card__icon f-elements f-elements--center">
-                                <img src="./assets/icon/atun.svg" alt="donacion-de-atun" class="icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--primary">Donación de atún</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <!--   QUIENES SOMOS  -->
-
-        <section class="section" id="nosotros">
-            <div class="container">
-                <div class="f-elements f-col md:f-row gap-md">
-                    <div class="f-elements f-col gap-sm">
-                        <p class="section__title section__title--secondary">¿Quiénes Somos?</p>
-                        <p class="section__description section__description--primary">Somos una organización sin fines de lucro, conformada por un grupo de personas con gran vocación social que trabaja día a día con mucho amor, llevando esperanza a los pobladores de los sectores más vulnerables de Lima, Perú.</p>
-                        <p class="section__description section__description--primary">Nos esforzamos en difundir nuestro trabajo para así recibir la mayor cantidad de ayuda posible y seguir llevando oportunidades de un futuro mejor para todos.</p>
-                    </div>
-                    <div class="f-elements f-col f-elements--center gap-md md:w-50">
-                        <div class="swiper mySwiperNosotros">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="f-elements f-elements--center border">
-                                        <img src="./assets/img/nosotros/nosotros-1.png" alt="" class="section__img" />
+                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h2 class="card__title card__title--primary">Andadores</h2>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="f-elements f-elements--center border">
-                                        <img src="./assets/img/nosotros/nosotros-2.png" alt="" class="section__img" />
+                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h2 class="card__title card__title--primary">Bastones</h2>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="f-elements f-elements--center border">
-                                        <img src="./assets/img/nosotros/nosotros-3.png" alt="" class="section__img" />
+                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h2 class="card__title card__title--primary">Medicamentos</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h2 class="card__title card__title--primary">Pañales para Adultos</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h2 class="card__title card__title--primary">Aparatos Ortopedicos</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h2 class="card__title card__title--primary">Camas Clínicas</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h2 class="card__title card__title--primary">Muletas</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h2 class="card__title card__title--primary">Silla De Ruedas</h2>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -170,6 +190,8 @@
                 </div>
             </div>
         </section>
+
+
         
         <!--  ACTIVIDADES 1 -->
 
@@ -426,7 +448,6 @@
     
     <script src="./js/header.js"></script>
     <script src="./js/swiper.js" type="module"></script>
-    <script src="./js/showContent.js"></script>
     
 </body>
 </html>

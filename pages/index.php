@@ -54,7 +54,7 @@
                         Apoya nuestra terapia vanguardista y brinda esperanza</br> a quienes más lo necesitan.
                     </p>
                     <div class="py-sm">
-                        <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> deseo donar</a>
+                        <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> Ver Donación</a>
                     </div>
                 </div>
             </div>
@@ -105,82 +105,82 @@
                             </div>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--primary">Andadores</h2>
+                                            <h2 class="card__title card__title--secondary">Andadores</h2>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--primary">Bastones</h2>
+                                            <h2 class="card__title card__title--secondary">Bastones</h2>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--primary">Medicamentos</h2>
+                                            <h2 class="card__title card__title--secondary">Medicamentos</h2>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--primary">Pañales para Adultos</h2>
+                                            <h2 class="card__title card__title--secondary">Pañales para Adultos</h2>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--primary">Aparatos Ortopedicos</h2>
+                                            <h2 class="card__title card__title--secondary">Aparatos Ortopedicos</h2>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--primary">Camas Clínicas</h2>
+                                            <h2 class="card__title card__title--secondary">Camas Clínicas</h2>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--primary">Muletas</h2>
+                                            <h2 class="card__title card__title--secondary">Muletas</h2>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center gap-sm bg-green p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-green p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--primary">Silla De Ruedas</h2>
+                                            <h2 class="card__title card__title--secondary">Silla De Ruedas</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -191,36 +191,59 @@
             </div>
         </section>
 
+        <section class="section mt-sm">
+            <div class="f-elements f-col f-elements--center gap-sm py-md px-responsive bg-parallax">
+                <div class="f-elements f-col gap-sm">
+                    <p class="section__title section__title--reverse-primary">¡Sé parte del <span class="section__title--span">cambio!</span></p>
+                    <p class="section__description section__description--secondary">
+                        Con Traperos de Emaús San Camilo, tienes la oportunidad de ofrecer asistencia a aquellos que más lo necesitan mediante 
+                        donaciones desde la comodidad de tu hogar o lugar de trabajo. Recolectamos de forma gratuita en toda Lima y Callao, 
+                        asegurando el cumplimiento de todos los protocolos de bioseguridad.
+                    </p>
+                </div>
+                <div class="f-elements f-col f-elements--center">
+                    <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> Haz tu donación</a>
+                </div>
+            </div>
+        </section>
 
-        
-        <!--  ACTIVIDADES 1 -->
+        <!--  ACTIVIDADES -->
 
         <section class="section" id="actividades">
             <div class="container">
-                <div class="f-elements f-col bg-green border p-responsive--section gap-sm">
-                    <h3 class="section__title section__title--third">Donación en Nueva Esperanza, Alto Retamal</h3>
-                    <p class="section__text section__text--primary">Villa María del Triunfo, Lima</p>
+                <div class="f-elements f-col border p-responsive--section gap-sm">
+                    <p class="section__title section__title--primary text-uppercase">Conoce nuestras <span class="section__title--span">Últimas Actividades <i class="bi bi-heart-fill"></i></span></p>
                     <div class="f-elements f-col f-elements--center gap-md py-md">
                         <div class="swiper mySwiperActivity1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img src="./assets/img/donaciones/nueva-esperanza-1.png" alt="donacion-nueva-esperanza-1" class="card__img">
+                                        <img src="./assets/img/actividades/bastones-1.jpeg" alt="donacion-nueva-esperanza-1" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img src="./assets/img/donaciones/nueva-esperanza-2.png" alt="donacion-nueva-esperanza-2" class="card__img">
+                                        <img src="./assets/img/actividades/pañales-3.jpeg" alt="donacion-nueva-esperanza-2" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img src="./assets/img/donaciones/nueva-esperanza-3.png" alt="donacion-nueva-esperanza-3" class="card__img">
+                                        <img src="./assets/img/actividades/muletas-1.jpeg" alt="donacion-nueva-esperanza-3" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card">
-                                        <img src="./assets/img/donaciones/nueva-esperanza-4.png" alt="donacion-nueva-esperanza-4" class="card__img">
+                                        <img src="./assets/img/actividades/andadores-1.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img src="./assets/img/actividades/silla-de-ruedas-1.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img src="./assets/img/actividades/andadores-2.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
                                     </div>
                                 </div>
                             </div>
@@ -228,211 +251,45 @@
                             <div class="swiper-pagination mt-auto"></div>
                             -->
                         </div>
-                        <!--
-                        <a class="button button--primary" href="./actividades-sociales.php"><i class="bi bi-balloon-heart"></i> Ver más</a>
-                        -->
+                        <a class="button button--primary" href="./actividades-sociales.php"><i class="bi bi-balloon-heart"></i> Ver más Actividades</a>
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <!--  ACTIVIDADES 2 -->
-
-        <section class="section" id="">
-            <div class="container">
-                <div class="f-elements f-col bg-green border p-responsive--section gap-sm">
-                    <h3 class="section__title section__title--third">Donación en Huancayo, Jauja</h3>
-                    <p class="section__text section__text--primary">Junín</p>
-                    <div class="f-elements f-col f-elements--center gap-md py-md">
-                        <div class="swiper mySwiperActivity2">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/huancayo-1.png" alt="donacion-huancayo-1" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/huancayo-2.png" alt="donacion-huancayo-2" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/huancayo-3.png" alt="donacion-huancayo-3" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/huancayo-4.png" alt="donacion-huancayo-4" class="card__img">
-                                    </div>
-                                </div>
-                            </div>
-                            <!--
-                            <div class="swiper-pagination mt-auto"></div>
-                            -->
-                        </div>
-                        <!--
-                        <a class="button button--primary" href="./actividades-sociales.php"><i class="bi bi-balloon-heart"></i> Ver más</a>
-                        -->
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <div class="m-negative show-content">
-            <div class="container more f-elements f-col f-elements--end">
-                <div class="f-elements f-col f-elements--end py-md">
-                    <a href="" id="more" class="link">Mostras más</a>
-                </div>
-            </div>
-        </div>
-
-        <!--  ACTIVIDADES 3 -->
-
-        <section class="section activity1 d-none" id="">
-            <div class="container">
-                <div class="f-elements f-col bg-green border p-responsive--section gap-sm">
-                    <h3 class="section__title section__title--third">Donación en Comedor Popular María Parado de Bellido</h3>
-                    <p class="section__text section__text--primary">San Juan de Miraflores, Lima</p>
-                    <div class="f-elements f-col f-elements--center gap-md py-md">
-                        <div class="swiper mySwiperActivity3">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/sjm-1.png" alt="donacion-sjm-1" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/sjm-2.png" alt="donacion-sjm-2" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/sjm-3.png" alt="donacion-sjm-3" class="card__img">
-                                    </div>
-                                </div>
-                            </div>
-                            <!--
-                            <div class="swiper-pagination mt-auto"></div>
-                            -->
-                        </div>
-                        <!--
-                        <a class="button button--primary" href="./actividades-sociales.php"><i class="bi bi-balloon-heart"></i> Ver más</a>
-                        -->
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!--  ACTIVIDADES 4 -->
-
-        <section class="section activity2 d-none" id="">
-            <div class="container">
-                <div class="f-elements f-col bg-green border p-responsive--section gap-sm">
-                    <h3 class="section__title section__title--third">Donación en Olla Común Atrapando Bendiciones</h3>
-                    <p class="section__text section__text--primary">Villa María del Triunfo, Lima</p>
-                    <div class="f-elements f-col f-elements--center gap-md py-md">
-                        <div class="swiper mySwiperActivity4">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/vmt-1.png" alt="donacion-vmt-1" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/vmt-2.png" alt="donacion-vmt-2" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/vmt-3.png" alt="donacion-vmt-3" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <img src="./assets/img/donaciones/vmt-4.png" alt="donacion-vmt-4" class="card__img">
-                                    </div>
-                                </div>
-                            </div>
-                            <!--
-                            <div class="swiper-pagination mt-auto"></div>
-                            -->
-                        </div>
-                        <!--
-                        <a class="button button--primary" href="./actividades-sociales.php"><i class="bi bi-balloon-heart"></i> Ver más</a>
-                        -->
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="section bg-dark-green mt-xlg">
-            <div class="container">
-                <div class="g-elements g-elements--responsive g-elements--center gap-sm border-cta px-md py-md bg-parallax">
-                    <div class="f-elements f-col">
-                        <p class="section__title section__title--fourt">¡Cambiemos el mañana De muchas personas!</p>
-                        <p class="section__text section__text--responsive">Con tu aporte ayudaremos a más familias.</p>
-                    </div>
-                    <div class="f-elements f-col f-elements--center mt-auto">
-                        <a class="button button--outline-primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> deseo donar</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <!-- SECCIONES CONSULTAS -->
-        <section class="section" id="donar">
-            <div class="container f-elements f-col gap-md">
-              <h3 class="section__title section__title--primary">Donar es muy fácil!</h3>
-              <P class="section__description section__description--secondary">Forma parte de nuestras acciones sociales. Recibimos cosas usadas, ropa, muebles, juguetes, máquinas, salud, reciclaje y víveres no perecibles.</P>
-              <div class="g-elements g-elements--center gap-md g-template-columns">
-                <div class="card f-elements f-col f-elements--center gap-sm px-sm py-sm">
-                    <div class="card__img-icon f-elements f-elements--center">
-                        <img src="./assets/icon/service-1.svg" alt="">
-                    </div>
-                    <div class="card__body-services f-elements f-col f-elements--center gap-sm px-md">
-                        <p class="card__text">
-                            1) Llámanos o escríbenos al WhatsApp 954 746 838 ó llena nuestro formulario de contacto.
-                        </p>
-                    </div>
-                </div>
-                <div class="card f-elements f-col f-elements--center gap-sm px-sm py-sm">
-                    <div class="card__img-icon f-elements f-elements--center">
-                        <img src="./assets/icon/service-2.svg" alt="">
-                    </div>
-                    <div class="card__body-services f-elements f-col f-elements--center gap-sm px-md">
-                        <p class="card__text">
-                            2) Te atenderemos y brindaremos toda la información que necesites.
-                        </p>
-                    </div>
-                </div>
-                <div class="card f-elements f-col f-elements--center gap-sm px-sm py-sm">
-                    <div class="card__img-icon f-elements f-elements--center">
-                        <img src="./assets/icon/service-3.svg" alt="">
-                    </div>
-                    <div class="card__body-services f-elements f-col f-elements--center gap-sm px-md">
-                        <p class="card__text">
-                            3) Programaremos el recojo hasta tu domicilio o centro de labores.
-                        </p>
-                    </div>
-                </div>
-                <div class="card f-elements f-col f-elements--center gap-sm px-sm py-sm">
-                    <div class="card__img-icon f-elements f-elements--center">
-                        <img src="./assets/icon/service-4.svg" alt="">
-                    </div>
-                    <div class="card__body-services f-elements f-col f-elements--center gap-sm px-md">
-                        <p class="card__text">
-                            4) Realizamos el recojo cumpliendo con todos los protocolos de bioseguridad.
-                        </p>
-                    </div>
-                </div>
-              </div>
             </div>
         </section>
         
+        <!--   TERAPIAS  -->
+
+        <section class="py-xl" id="nosotros">
+            <div class="g-elements g-elements--responsive gap-md">
+                <div class="slider">
+                    <div class="swiper mySwiperTerapias">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                    <img src="./assets/img/terapias/terapia-1.jpeg" alt="" class="section__img border-right" />
+                            </div>
+                            <div class="swiper-slide">
+                                    <img src="./assets/img/terapias/terapia-2.jpeg" alt="" class="section__img border-right" />
+                            </div>
+                            <div class="swiper-slide">
+                                    <img src="./assets/img/terapias/terapia-3.jpeg" alt="" class="section__img border-right" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container f-elements f-col f-elements--justify-center gap-sm my-auto">
+                    <p class="section__title section__title--secondary">Terapias especializadas para el <span class="section__title--span">bienestar</span></p>
+                    <p class="section__description section__description--primary">
+                        Mejoramos la calidad de vida de los adultos mayores mediante terapias especializadas, como la <b>podología</b>, alivio de <b>dolores lumbares</b>, tratamiento de <b>dolores articulares</b> y mucho más. Nuestro enfoque se centra en proporcionar cuidado personalizado y efectivo, adaptado a las necesidades individuales de cada cliente. 
+                    </p>
+                    <p class="section__description section__description--primary">
+                        Con profesionales altamente capacitados y una atención dedicada, nos esforzamos por brindar un alivio tangible y duradero a nuestros pacientes. Permítanos ser su aliado en el camino hacia una vida más saludable y plena.
+                    </p>
+                    <div class="py-sm">
+                        <a class="button button--primary" href="https://wa.me/+51954746838?text=Hola Emaús Esperanza Viva, deseo realizar una donación">Saber mas</a>
+                    </div>
+                </div>
+            </div>
+        </section>
         
         <!-- Agregando componente footer -->
         <?php include('./components/contact.php') ?>

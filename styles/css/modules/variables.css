@@ -3,23 +3,20 @@
     --primary-theme-color: #FCE7F3;
     --secondary-theme-color: #EC4899;
     --primary-bg-color: #FFCAE4;
-    --secondary-bg-color: #1F8949;
     --primary-text-color: #fff;
-    --secondary-text-color: #1F8949;
+    --secondary-text-color: #D10547;
     --third-text-color: #8C8C8C;
     --span-text-color: #02B65B;
     --reverse-primary-text-color: #000;
     --primary-span-color: #FF3586;
     --primary-input-color: #9B9B9B;
     --primary-p-color: #000000;
-    --secondary-p-color:rgba(112, 112, 112, 1);
+    --secondary-p-color:#FFFFFF;
     --primary-shadow-color: #ffffff80;
     --secondary-shadow-color: #ffffff40;
     --reverse-primary-shadow-color: #00000080;
-    --reverse-secondary-shadow-color: #009953;
     --primary-highlight-color: #EC4899;
-    --secondary-highlight-color: #02B65B;
-    --third-highlight-color: rgba(112, 112, 112, 1);
+    --secondary-highlight-color: #FF3586;
     --primary-button-color: #61dafb;
     --secondary-button-color: #5CD252;
     --primary-border-color:#80CE66;
@@ -30,7 +27,7 @@
     --padding-section: 1.5rem;
     --padding-container: 1.25rem;
     --padding-responsive: 5rem;
-    --primary-border-radius: 0.625rem;
+    --primary-border-radius: 2rem;
     --nav-primary-font-size: 1.125rem; /* 18px */
     --primary-text-font-size: 0.75rem; /* 12px */
     --secondary-text-font-size: 1.125rem; /* 18px */

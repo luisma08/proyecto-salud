@@ -14,27 +14,19 @@
       &--primary{
         text-align: center;
         color:var(--primary-p-color);
+        font-weight: 700;
       }
 
       &--secondary{
         text-align: left;
         color:var(--primary-p-color);
-      }
-
-      &--third{
-        text-align: center;
-        color:var(--primary-text-color);
         font-weight: 700;
       }
 
-      &--fourt{
+      &--reverse-primary{
         text-align: center;
-        color:var(--primary-text-color);
-        font-weight: 500;
-
-        @include desktop{
-          text-align: left;
-        }
+        color:var(--secondary-p-color);
+        font-weight: 700;
       }
 
       &--span{
@@ -71,7 +63,7 @@
           }
         }
 
-        &--primary, &--secondary, &--responsive, &--fourth{
+        &--primary, &--responsive{
           color: var(--primary-p-color);
         }
 
@@ -81,34 +73,7 @@
 
         &--secondary{
           text-align: center;
-        }
-
-        &--third{
-          text-align: center;
-          color: #5a5a5a;
-          font-size: 21px;
-          line-height: 25px;
-          font-weight: 700;
-
-          @include desktop{
-            font-size: 30px;
-            line-height: 36px;
-          }
-        }
-
-        &--fourth{
-          text-align: center;
-          font-size: 21px;
-          line-height: 25px;
-          font-weight: 700;
-          text-transform: uppercase;
-
-          @include desktop{
-            font-size: 34px;
-            line-height: 40px;
-            padding-left: 5rem;
-            padding-right: 5rem;
-          }
+          color: var(--secondary-p-color);
         }
 
         &--responsive{

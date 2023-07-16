@@ -40,13 +40,13 @@
                     </a>
                     <ul class="list list--header f-elements f-col gap-md f-elements--center md:f-row" id="list-content">
                         <li>
-                            <a href="#nosotros" class="list__link--menu">Quienes Somos</a>
+                            <a href="/nosotros" class="list__link--menu">Quienes Somos</a>
                         </li>
                         <li>
-                            <a href="#actividades" class="list__link--menu">Actividades</a>
+                            <a href="/terapias" class="list__link--menu">Nuestras Terapias</a>
                         </li>
                         <li>
-                            <a href="#donar" class="list__link--menu">Cómo Donar</a>
+                            <a href="/actividades-sociales" class="list__link--menu">Actividades Sociales</a>
                         </li>
                     </ul>
                 </div>

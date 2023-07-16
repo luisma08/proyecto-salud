@@ -1,23 +1,19 @@
 .form{
     font-family: var(--primary-font-family);
-    background-color: #FFFFFF;
-    padding: 1.125rem;
-    border: 5px solid #80CE66;
-    border-radius: 10px;
-    margin-top: -2.625rem;
-
-    &__img{
-        max-width: 360px;
-
-        @include desktop{
-            max-width: 450px;
-        }
-    }
+    //background-color: #FFFFFF;
+    padding: 3.125rem;
+    border-radius: 64px;
+    background: rgba(242, 242, 242, 0.32);
+    backdrop-filter: blur(4px);
+    max-width: 650px;
+    box-sizing: border-box;
+    width: 100%;
     
     &__legend{
-        color: var(--primary-text-color);
-        font-size: var(--primary-text-font-size);
+        color: var(--reverse-primary-text-color);
+        font-size: 24px;
         margin: 0;
+        font-weight: 900;
     }
     
     &__label{
@@ -65,22 +61,5 @@
         }
     }
     
-}
-
-.bg-color{
-    @include desktop{
-        background-color: var(--primary-theme-color);
-        box-shadow: 0 0 0.125rem var(--primary-shadow-color),
-        0 0 0.25rem var(--primary-shadow-color);
-        border-radius: var(--primary-border-radius);
-        overflow: hidden;
-        transition: box-shadow 0.25s;
-        padding: 2rem 0 3rem 0rem;
-        box-sizing: border-box;
-    }
-
-    &:hover {
-        box-shadow: 0 0 0.25rem 0 var(--primary-highlight-color);
-      }
 }
 

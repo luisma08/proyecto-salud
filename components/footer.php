@@ -89,23 +89,43 @@
                     </div>
                 </div>
             </div>
-            <div class="f-elements f-col mx-auto gap-md">
+            <div class="f-elements f-col mx-responsive gap-md">
                 <div>
                     <p class="footer__title footer__title--secondary">Menú</p>
                 </div>
-                <div class="f-elements f-col mx-auto">
+                <div class="f-elements f-col mx-responsive">
                     <ul class="social__nav-list f-elements f-col gap-md">
-                        <li class="social__nav-item f-elements mx-responsive">
+                        <li class="social__nav-item f-elements gap-sm">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="currentColor" class="bi bi-circle-fill" color="#FF3586" viewBox="0 0 16 16">
+                                    <circle cx="8" cy="8" r="8"/>
+                                </svg>
+                            </div>
                             <a href="/nosotros" class="list__link my-auto" id="social-text-2">Quienes Somos</a>
                         </li>
-                        <li class="social__nav-item f-elements mx-responsive">
+                        <li class="social__nav-item f-elements gap-sm">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="currentColor" class="bi bi-circle-fill" color="#FF3586" viewBox="0 0 16 16">
+                                    <circle cx="8" cy="8" r="8"/>
+                                </svg>
+                            </div>
                             <a href="/terapias" class="list__link my-auto" id="social-text-2">Nuestras Terapias</a>
                         </li>
-                        <li class="social__nav-item f-elements mx-responsive">
-                            <a href="/actividades-sociales" class="list__link my-auto" id="social-text-1">Actividades Sociales</a>
+                        <li class="social__nav-item f-elements gap-sm">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="currentColor" class="bi bi-circle-fill" color="#FF3586" viewBox="0 0 16 16">
+                                    <circle cx="8" cy="8" r="8"/>
+                                </svg>
+                            </div>
+                            <a href="/actividades-sociales" class="list__link my-auto" id="social-text-2">Actividades Sociales</a>
                         </li>
-                        <li class="social__nav-item f-elements mx-responsive">
-                            <a href="#contact" class="list__link my-auto" id="social-text-1">Contacto</a>
+                        <li class="social__nav-item f-elements gap-sm">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="currentColor" class="bi bi-circle-fill" color="#FF3586" viewBox="0 0 16 16">
+                                    <circle cx="8" cy="8" r="8"/>
+                                </svg>
+                            </div>
+                            <a href="#contact" class="list__link my-auto" id="social-text-2">Contacto</a>
                         </li>
                     </ul>
                 </div>

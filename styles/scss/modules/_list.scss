@@ -5,17 +5,17 @@
 
     &--header{
         position: fixed;
-        top: 15.25rem;
+        top: 13.7rem;
         left: 0;
         width: 100%;
-        height: calc(100% - 15.25rem);
+        height: calc(100% - 13.7rem);
         background-color: var(--primary-theme-color);
         transform: translateX(var(--translate-list-header));
         transition: transform 0.25s;
 
         &-scroll{
-            height: calc(100% - 9.5rem);
-            top: 9.5rem;
+            height: calc(100% - 7.95rem);
+            top: 7.95rem;
         }
 
         @include desktop{

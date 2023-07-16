@@ -50,6 +50,10 @@
   margin-top: auto;
 }
 
+.mt-sm {
+  margin-top: 1rem;
+}
+
 .mt-xlg {
   margin-top: 5rem;
 }
@@ -229,34 +233,29 @@
 }
 
 .bg-img {
-  background-image: url("../../assets/img/bg-img-1.webp");
+  background-image: url("../../assets/img/bg-cta-1.png");
   background-size: 100% 100%;
-  background-color: #88D66E;
   background-repeat: no-repeat;
+  object-fit: cover;
+  box-sizing: border-box;
+  overflow: hidden;
+  width: 100%;
+  border-radius: var(--primary-border-radius);
 }
 @media (min-width: 1024px) {
   .bg-img {
-    background-image: url("../../assets/img/bg-img-2.webp");
+    background-image: url("../../assets/img/bg-cta-2.png");
+    max-width: 1056px;
   }
 }
 
-.bg-img-wsp {
-  background-image: url("../../assets/img/wsp-hero.png");
-  background-size: 191px 266px;
-  height: 335px;
-  width: 208px;
+.bg-form {
+  background-image: url("../../assets/img/bg-form.jpeg");
+  background-size: 100% 100%;
   background-repeat: no-repeat;
-  background-position: bottom 20px left;
-}
-@media (min-width: 1024px) {
-  .bg-img-wsp {
-    background-image: url("../../assets/img/wsp-hero-resp.png");
-    background-size: 100% 100%;
-    height: 548px;
-    padding-bottom: 42px;
-    padding-left: 96px;
-    background-position: bottom 0px left;
-  }
+  object-fit: cover;
+  border-radius: 64px;
+  width: 100%;
 }
 
 .py-sm {
@@ -512,6 +511,19 @@
     line-height: 36px;
   }
 }
+.section__description--reverse-responsive {
+  text-align: center;
+  font-size: 21px;
+  line-height: 25px;
+  color: var(--primary-text-color);
+}
+@media (min-width: 1024px) {
+  .section__description--reverse-responsive {
+    text-align: left;
+    font-size: 30px;
+    line-height: 36px;
+  }
+}
 .section__text {
   font-size: var(--fifth-text-font-size);
   line-height: 1.5rem;
@@ -616,7 +628,7 @@
   justify-content: center;
 }
 .f-elements--end {
-  align-items: center;
+  align-items: end;
   justify-content: end;
 }
 .f-elements--responsive {
@@ -778,17 +790,17 @@
 }
 .list--header {
   position: fixed;
-  top: 15.25rem;
+  top: 13.7rem;
   left: 0;
   width: 100%;
-  height: calc(100% - 15.25rem);
+  height: calc(100% - 13.7rem);
   background-color: var(--primary-theme-color);
   transform: translateX(var(--translate-list-header));
   transition: transform 0.25s;
 }
 .list--header-scroll {
-  height: calc(100% - 9.5rem);
-  top: 9.5rem;
+  height: calc(100% - 7.95rem);
+  top: 7.95rem;
 }
 @media (min-width: 1024px) {
   .list--header {
@@ -1061,6 +1073,8 @@
 .card__slide {
   width: 190px;
   height: 190px;
+  padding: 1rem;
+  box-sizing: border-box;
 }
 .card__hover {
   transition: box-shadow 0.25s;
@@ -1140,7 +1154,8 @@
 }
 
 .icon {
-  width: 100%;
+  width: 46px;
+  height: 46px;
   animation: t-rotate 2.5s linear infinite;
 }
 
@@ -1193,24 +1208,19 @@
 
 .form {
   font-family: var(--primary-font-family);
-  background-color: #FFFFFF;
-  padding: 1.125rem;
-  border: 5px solid #80CE66;
-  border-radius: 10px;
-  margin-top: -2.625rem;
-}
-.form__img {
-  max-width: 360px;
-}
-@media (min-width: 1024px) {
-  .form__img {
-    max-width: 450px;
-  }
+  padding: 3.125rem;
+  border-radius: 64px;
+  background: rgba(242, 242, 242, 0.32);
+  backdrop-filter: blur(4px);
+  max-width: 650px;
+  box-sizing: border-box;
+  width: 100%;
 }
 .form__legend {
-  color: var(--primary-text-color);
-  font-size: var(--primary-text-font-size);
+  color: var(--reverse-primary-text-color);
+  font-size: 24px;
   margin: 0;
+  font-weight: 900;
 }
 .form__label {
   font-size: var(--primary-text-font-size);
@@ -1246,21 +1256,6 @@
 }
 .form__select--active {
   color: var(--reverse-primary-text-color);
-}
-
-@media (min-width: 1024px) {
-  .bg-color {
-    background-color: var(--primary-theme-color);
-    box-shadow: 0 0 0.125rem var(--primary-shadow-color), 0 0 0.25rem var(--primary-shadow-color);
-    border-radius: var(--primary-border-radius);
-    overflow: hidden;
-    transition: box-shadow 0.25s;
-    padding: 2rem 0 3rem 0rem;
-    box-sizing: border-box;
-  }
-}
-.bg-color:hover {
-  box-shadow: 0 0 0.25rem 0 var(--primary-highlight-color);
 }
 
 .footer {

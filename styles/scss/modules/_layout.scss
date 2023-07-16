@@ -87,6 +87,19 @@
             line-height: 36px;
           }
         }
+
+        &--reverse-responsive{
+          text-align: center;
+          font-size: 21px;
+          line-height: 25px;
+          color: var(--primary-text-color);
+          
+          @include desktop{
+            text-align: left;
+            font-size: 30px;
+            line-height: 36px;
+          }
+        }
     }
 
     &__text{
@@ -202,7 +215,7 @@
     }
 
     &--end{
-      align-items: center;
+      align-items: end;
       justify-content: end;
     }
     

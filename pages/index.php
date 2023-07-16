@@ -107,7 +107,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            <img src="./assets/icon/andadores.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
                                             <h2 class="card__title card__title--secondary">Andadores</h2>
@@ -117,7 +117,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            <img src="./assets/icon/bastones.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
                                             <h2 class="card__title card__title--secondary">Bastones</h2>
@@ -127,7 +127,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            <img src="./assets/icon/medicamentos.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
                                             <h2 class="card__title card__title--secondary">Medicamentos</h2>
@@ -137,7 +137,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            <img src="./assets/icon/pañales-para-adultos.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
                                             <h2 class="card__title card__title--secondary">Pañales para Adultos</h2>
@@ -147,7 +147,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            <img src="./assets/icon/ropa-calzado.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
                                             <h2 class="card__title card__title--secondary">Aparatos Ortopedicos</h2>
@@ -157,7 +157,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            <img src="./assets/icon/camas-clinicas.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
                                             <h2 class="card__title card__title--secondary">Camas Clínicas</h2>
@@ -167,7 +167,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            <img src="./assets/icon/muletas.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
                                             <h2 class="card__title card__title--secondary">Muletas</h2>
@@ -177,7 +177,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
                                         <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-ico.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            <img src="./assets/icon/silla-de-ruedas.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                         <div class="f-elements f-col f-elements--center">
                                             <h2 class="card__title card__title--secondary">Silla De Ruedas</h2>
@@ -191,7 +191,7 @@
             </div>
         </section>
 
-        <section class="section mt-sm">
+        <section class="section">
             <div class="f-elements f-col f-elements--center gap-sm py-md px-responsive bg-parallax">
                 <div class="f-elements f-col gap-sm">
                     <p class="section__title section__title--reverse-primary">¡Sé parte del <span class="section__title--span">cambio!</span></p>
@@ -259,7 +259,7 @@
         
         <!--   TERAPIAS  -->
 
-        <section class="py-xl" id="nosotros">
+        <section class="section" id="nosotros">
             <div class="g-elements g-elements--responsive gap-md">
                 <div class="slider">
                     <div class="swiper mySwiperTerapias">

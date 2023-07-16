@@ -12,6 +12,8 @@
     &__slide{
       width: 190px;
       height: 190px;
+      padding: 1rem;
+      box-sizing: border-box;
     }
 
     &__hover {
@@ -109,6 +111,7 @@
   }
 
   .icon{
-    width: 100%;
+    width: 46px;
+    height: 46px;
     animation: t-rotate 2.5s linear infinite;
   }

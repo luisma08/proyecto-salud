@@ -45,7 +45,7 @@
     <!-- FIN -->
 
     <main class="main">
-        <section class="banner banner__nosotros my-scroll f-elements f-elements--center">
+        <section class="banner banner__nosotros my-scroll f-elements f-elements--center my-scroll" id="banner">
             <div class="container">
                 <div class="f-elements f-col f-elements--center">
                     <p class="banner__title">¿QUIENES SOMOS?</p>

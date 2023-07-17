@@ -106,81 +106,141 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/andadores.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--secondary">Andadores</h2>
+                                            <h3 class="card__title card__title--secondary">Donación de Ropa y Calzado</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ropa-y-calzado.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/bastones.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--secondary">Bastones</h2>
+                                            <h3 class="card__title card__title--secondary">Donación de Muebles y Estantes</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/muebles.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/medicamentos.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--secondary">Medicamentos</h2>
+                                            <h3 class="card__title card__title--secondary">Donación de Computadoras y Laptops</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/computadoras.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/pañales-para-adultos.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--secondary">Pañales para Adultos</h2>
+                                            <h3 class="card__title card__title--secondary">Donación de Artefactos Tecnológicos</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/artefactos.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-calzado.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--secondary">Aparatos Ortopedicos</h2>
+                                            <h3 class="card__title card__title--secondary">Donación de Electrodomésticos y Artefactos</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/electrodomesticos.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/camas-clinicas.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--secondary">Camas Clínicas</h2>
+                                            <h3 class="card__title card__title--secondary">Donación de Bienes e Inmuebles</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/bienes-e-inmuebles.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/muletas.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--secondary">Muletas</h2>
+                                            <h3 class="card__title card__title--secondary">Donación de Juguetes y Muñecas</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/juguetes.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/silla-de-ruedas.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
                                         <div class="f-elements f-col f-elements--center">
-                                            <h2 class="card__title card__title--secondary">Silla De Ruedas</h2>
+                                            <h3 class="card__title card__title--secondary">Donación de Ortopédicos</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ortopedicos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h3 class="card__title card__title--secondary">Donación de Alimentos, Bebidas y Agua</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/alimentos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h3 class="card__title card__title--secondary">Donación de Reciclaje General</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h3 class="card__title card__title--secondary">Donación de Metales y Chatarra</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h3 class="card__title card__title--secondary">Donación de Cosas Usadas no Averiadas</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h3 class="card__title card__title--secondary">Donación de Vehículos y Motos</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                        <div class="f-elements f-col f-elements--center">
+                                            <h3 class="card__title card__title--secondary">Traperos de Emaús</h3>
+                                        </div>
+                                        <div class="card__icon f-elements f-elements--center">
+                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
                                     </div>
                                 </div>

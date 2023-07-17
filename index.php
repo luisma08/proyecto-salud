@@ -14,7 +14,7 @@ $rutas = [
     '' => 'index',
     '/' => 'index',
     '/nosotros' => 'nosotros',
-    '/terapias' => 'terapias',
+    '/donaciones' => 'donaciones',
     '/actividades-sociales' => 'actividades-sociales'
 ];
 

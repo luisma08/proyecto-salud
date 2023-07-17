@@ -38,7 +38,7 @@ document.querySelector("#submit").addEventListener("click", e => {
 
   window.open(url);
 });
-
+/*
 document.querySelector(".form__select").addEventListener("click", e => {
   e.preventDefault();
 
@@ -47,4 +47,4 @@ document.querySelector(".form__select").addEventListener("click", e => {
   formSelect.classList.remove("form__select--disabled");
   formSelect.classList.add("form__select--active");
 
-})
+})*/

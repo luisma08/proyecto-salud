@@ -26,7 +26,7 @@
     <div class="container bg-white">
         <nav class="nav f-elements f-elements--responsive-2 f-col md:f-row" id="header-nav">
             <div class="header__container-logo">
-                <a href="./">
+                <a href="/">
                     <img src="./assets/img/logo-sancamilo.png" alt="logo" class="nav__logo">
                 </a>
             </div>
@@ -46,7 +46,7 @@
                             <a href="/nosotros" class="list__link--menu">Quienes Somos</a>
                         </li>
                         <li>
-                            <a href="/terapias" class="list__link--menu">Nuestras Terapias</a>
+                            <a href="/donaciones" class="list__link--menu">Donaciones</a>
                         </li>
                         <li>
                             <a href="/actividades-sociales" class="list__link--menu">Actividades Sociales</a>

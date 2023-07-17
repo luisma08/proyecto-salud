@@ -1284,6 +1284,7 @@
   padding: 0.5rem;
   border: 1px solid var(--secondary-border-color);
   border-radius: 5px;
+  background-color: transparent;
 }
 .form__input, .form__textarea {
   font-family: var(--primary-font-family);
@@ -1294,7 +1295,7 @@
 .form__input::placeholder, .form__textarea::placeholder {
   font-family: var(--primary-font-family);
   font-size: var(--nav-primary-font-size);
-  color: var(--primary-input-color);
+  color: var(--reverse-primary-text-color);
   font-weight: 500;
 }
 .form__input:focus, .form__textarea:focus, .form__select:focus {
@@ -1304,11 +1305,6 @@
   font-family: var(--primary-font-family);
   font-size: var(--nav-primary-font-size);
   font-weight: 500;
-}
-.form__select--disabled {
-  color: var(--primary-input-color);
-}
-.form__select--active {
   color: var(--reverse-primary-text-color);
 }
 

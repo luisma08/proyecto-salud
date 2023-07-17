@@ -109,7 +109,7 @@
                                     <circle cx="8" cy="8" r="8"/>
                                 </svg>
                             </div>
-                            <a href="/terapias" class="list__link my-auto" id="social-text-2">Nuestras Terapias</a>
+                            <a href="/donaciones" class="list__link my-auto" id="social-text-2">Donaciones</a>
                         </li>
                         <li class="social__nav-item f-elements gap-sm">
                             <div class="">

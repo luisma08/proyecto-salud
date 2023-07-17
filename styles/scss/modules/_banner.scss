@@ -1,6 +1,5 @@
 .banner{
     --opacidad-negro: 0.5;
-    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: cover;
@@ -8,18 +7,28 @@
     //background: linear-gradient(90deg, rgba(220,0,88,0.8463760504201681) 0%, rgba(220,0,88,1) 10%, rgba(220,0,88,0.835171568627451) 100%);
     box-sizing: border-box;
     padding-bottom: 1.813rem;
-    height: 470px;
     background-position: center;
-
-    &__social{
-        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");
-    }
-
-    @include desktop{
+    
+    &__home{
         background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.png");
-        height: 511px;
-        padding-bottom: 0;
+        height: 470px;
+        
+        @include desktop{
+            height: 511px;
+            padding-bottom: 0;
+        }
     }
+    
+    &__nosotros{
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-nosotros.png");
+        height: 150px;
+
+        @include desktop{
+            height: 360px;
+            padding-bottom: 0;
+        }
+    }
+
 
     &__container{
         display: flex;

@@ -40,6 +40,9 @@
                     </a>
                     <ul class="list list--header f-elements f-col gap-md f-elements--center md:f-row" id="list-content">
                         <li>
+                            <a href="/" class="list__link--menu">Inicio</a>
+                        </li>
+                        <li>
                             <a href="/nosotros" class="list__link--menu">Quienes Somos</a>
                         </li>
                         <li>

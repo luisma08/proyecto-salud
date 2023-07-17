@@ -17,26 +17,26 @@
     <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- ICON -->
-    <link rel="shortcut icon" href="./assets/icon/favicon.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="./assets/icon/favicon-sancamilo.ico" type="image/x-icon">
 
     <!-- HTML Meta Tags -->
-    <title>Donaciones Lima ▷ Emaús Esperanza Viva: Brindando esperanza y oportunidades a quienes más lo necesitan</title>
+    <title>Dona Salud ▷ Traperos de Emaús San Camilo: Brindando esperanza y oportunidades a quienes más lo necesitan</title>
     <meta name="description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Brindemos esperanza y oportunidades a quienes más lo necesitan.">
 
     <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://emausesperanzaviva.org">
+    <meta property="og:url" content="https://emaussancamilo.org">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Donaciones Lima ▷ Emaús Esperanza Viva: Brindando esperanza y oportunidades a quienes más lo necesitan">
+    <meta property="og:title" content="Dona Salud ▷ Traperos de Emaús San Camilo: Brindando esperanza y oportunidades a quienes más lo necesitan">
     <meta property="og:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Brindemos esperanza y oportunidades a quienes más lo necesitan.">
-    <meta property="og:image" content="https://emausesperanzaviva.org/assets/img/logo.webp">
+    <meta property="og:image" content="https://emaussancamilo.org/assets/img/logo.webp">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="emausesperanzaviva.org">
-    <meta property="twitter:url" content="https://emausesperanzaviva.org">
-    <meta name="twitter:title" content="Donaciones Lima ▷ Emaús Esperanza Viva: Brindando esperanza y oportunidades a quienes más lo necesitan">
+    <meta property="twitter:domain" content="emaussancamilo.org">
+    <meta property="twitter:url" content="https://emaussancamilo.org">
+    <meta name="twitter:title" content="Dona Salud ▷ raperos de Emaús San Camilo: Brindando esperanza y oportunidades a quienes más lo necesitan">
     <meta name="twitter:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Brindemos esperanza y oportunidades a quienes más lo necesitan.">
-    <meta name="twitter:image" content="https://emausesperanzaviva.org/assets/img/logo.webp">
+    <meta name="twitter:image" content="https://emaussancamilo.org/assets/img/logo.webp">
 
 </head>
 <body class="body"><!--v1.0-->
@@ -45,7 +45,7 @@
     <!-- FIN -->
 
     <main class="main">
-        <section class="banner my-scroll" id="banner">
+        <section class="banner banner__home my-scroll" id="banner">
             <div class="container">
                 <div class="banner__container">
                     <h1 class="banner__subtitle">Dona Salud.</h1>
@@ -105,7 +105,7 @@
                             </div>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/andadores.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -115,7 +115,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/bastones.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -125,7 +125,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/medicamentos.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -135,7 +135,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/pañales-para-adultos.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -145,7 +145,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/ropa-calzado.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -155,7 +155,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/camas-clinicas.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -165,7 +165,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/muletas.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>
@@ -175,7 +175,7 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
+                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
                                         <div class="card__icon f-elements f-elements--center">
                                             <img src="./assets/icon/silla-de-ruedas.svg" alt="donacion-de-cosas-usadas" class="icon">
                                         </div>

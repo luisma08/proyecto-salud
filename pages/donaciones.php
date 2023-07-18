@@ -14,7 +14,7 @@
     <!-- FONT FAMILY -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- ICON -->
     <link rel="shortcut icon" href="./assets/icon/favicon-sancamilo.ico" type="image/x-icon">
@@ -291,7 +291,7 @@
         
         <section class="section donacion-content-2 d-none" id="donacion2">
             <div class="container">
-                <div class="g-elements g-elements--responsive bg-light-rose border px-sm py-sm">
+                <div class="g-elements g-elements--responsive bg-light-rose border px-md py-md">
                     <div class="f-elements f-col">
                         <div class="f-elements f-col md:f-row md:gap-sm">
                             <p class="section__subtitle section__subtitle--primary">
@@ -333,7 +333,7 @@
 
         <section class="section donacion-content-3 d-none" id="donacion3">
             <div class="container">
-                <div class="g-elements g-elements--responsive bg-light-rose border px-sm py-sm">
+                <div class="g-elements g-elements--responsive bg-light-rose border px-md py-md">
                     <div class="f-elements f-col">
                         <div class="f-elements f-col md:f-row md:gap-sm">
                             <p class="section__subtitle section__subtitle--primary">
@@ -371,7 +371,7 @@
 
         <section class="section donacion-content-4 d-none" id="donacion4">
             <div class="container">
-                <div class="g-elements g-elements--responsive bg-light-rose border px-sm py-sm">
+                <div class="g-elements g-elements--responsive bg-light-rose border px-md py-md">
                     <div class="f-elements f-col">
                         <div class="f-elements f-col md:f-row md:gap-sm">
                             <p class="section__subtitle section__subtitle--primary">
@@ -411,7 +411,7 @@
 
         <section class="section donacion-content-5 d-none" id="donacion5">
             <div class="container">
-                <div class="g-elements g-elements--responsive bg-light-rose border px-sm py-sm">
+                <div class="g-elements g-elements--responsive bg-light-rose border px-md py-md">
                     <div class="f-elements f-col">
                         <div class="f-elements f-col md:f-row md:gap-sm">
                             <p class="section__subtitle section__subtitle--primary">
@@ -451,7 +451,7 @@
 
         <section class="section donacion-content-6 d-none" id="donacion6">
             <div class="container">
-                <div class="g-elements g-elements--responsive bg-light-rose border px-sm py-sm">
+                <div class="g-elements g-elements--responsive bg-light-rose border px-md py-md">
                     <div class="f-elements f-col">
                         <div class="f-elements f-col md:f-row md:gap-sm">
                             <p class="section__subtitle section__subtitle--primary">
@@ -487,7 +487,7 @@
 
         <section class="section donacion-content-7 d-none" id="donacion7">
             <div class="container">
-                <div class="g-elements g-elements--responsive bg-light-rose border px-sm py-sm">
+                <div class="g-elements g-elements--responsive bg-light-rose border px-md py-md">
                     <div class="f-elements f-col">
                         <div class="f-elements f-col md:f-row md:gap-sm">
                             <p class="section__subtitle section__subtitle--primary">
@@ -522,7 +522,7 @@
 
         <section class="section donacion-content-8 d-none" id="donacion8">
             <div class="container">
-                <div class="g-elements g-elements--responsive bg-light-rose border px-sm py-sm">
+                <div class="g-elements g-elements--responsive bg-light-rose border px-md py-md">
                     <div class="f-elements f-col">
                         <div class="f-elements f-col md:f-row md:gap-sm">
                             <p class="section__subtitle section__subtitle--primary">

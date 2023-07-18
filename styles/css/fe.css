@@ -491,10 +491,10 @@
   text-align: left;
 }
 .section__subtitle--primary {
-  color: var(--secondary-text-color);
+  color: var(--reverse-primary-text-color);
 }
 .section__subtitle--secondary {
-  color: #80CE66;
+  color: var(--primary-span-color);
 }
 .section__description {
   margin: 0;
@@ -926,11 +926,25 @@
   }
 }
 .banner__nosotros {
+  --opacidad-negro: 0.3;
   background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-nosotros.png");
-  height: 150px;
+  height: 220px;
 }
 @media (min-width: 1024px) {
   .banner__nosotros {
+    height: 360px;
+    padding-bottom: 0;
+  }
+}
+.banner__donaciones {
+  --opacidad-negro: 0.5;
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-donar.jpeg");
+  height: 220px;
+  background-position: bottom;
+  background-size: 100%;
+}
+@media (min-width: 1024px) {
+  .banner__donaciones {
     height: 360px;
     padding-bottom: 0;
   }

@@ -41,11 +41,11 @@
       text-align: left;
 
       &--primary{
-        color: var(--secondary-text-color);
+        color: var(--reverse-primary-text-color);
       }
 
       &--secondary{
-        color: #80CE66;
+        color: var(--primary-span-color);
       }
     }
 

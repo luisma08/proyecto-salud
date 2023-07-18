@@ -16,7 +16,7 @@ document.querySelector("#submit").addEventListener("click", e => {
   resp.classList.remove("send");
 
   const url = `https://api.whatsapp.com/send?phone=${telefono}&text=
-        *Hola, Emaús Esperanza Viva*%0A
+        *Hola, Traperos De Emaús San Camilo*%0A
         *Quisiera Realizar una donación*%0A%0A
         *Mis datos de contacto son:*%0A
         *Nombre: ${name}%0A

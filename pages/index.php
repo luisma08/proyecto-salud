@@ -14,7 +14,7 @@
     <!-- FONT FAMILY -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- ICON -->
     <link rel="shortcut icon" href="./assets/icon/favicon-sancamilo.ico" type="image/x-icon">
@@ -110,144 +110,172 @@
                             </div>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Ropa y Calzado</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Ropa y Calzado</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/ropa-y-calzado.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ropa-y-calzado.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Muebles y Estantes</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Muebles y Estantes</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/muebles.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/muebles.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Computadoras y Laptops</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Computadoras y Laptops</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/computadoras.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/computadoras.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Artefactos Tecnológicos</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Artefactos Tecnológicos</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/artefactos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/artefactos.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Electrodomésticos y Artefactos</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Electrodomésticos y Artefactos</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/electrodomesticos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/electrodomesticos.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Bienes e Inmuebles</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Bienes e Inmuebles</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/bienes-e-inmuebles.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/bienes-e-inmuebles.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Juguetes y Muñecas</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Juguetes y Muñecas</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/juguetes.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/juguetes.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Ortopédicos</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Ortopédicos</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/ortopedicos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ortopedicos.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Alimentos, Bebidas y Agua</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Alimentos, Bebidas y Agua</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/alimentos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/alimentos.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Reciclaje General</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Reciclaje General</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Metales y Chatarra</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Metales y Chatarra</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Cosas Usadas no Averiadas</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Cosas Usadas no Averiadas</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Donación de Vehículos y Motos</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Donación de Vehículos y Motos</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
-                                        <div class="f-elements f-col f-elements--center">
-                                            <h3 class="card__title card__title--secondary">Traperos de Emaús</h3>
+                                    <a href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación." class="section__link" target="_blank">
+                                        <div class="card card__slide f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive mx-auto">
+                                            <div class="f-elements f-col f-elements--center">
+                                                <h3 class="card__title card__title--secondary">Traperos de Emaús</h3>
+                                            </div>
+                                            <div class="card__icon f-elements f-elements--center">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                            </div>
                                         </div>
-                                        <div class="card__icon f-elements f-elements--center">
-                                            <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
-                                        </div>
-                                    </div>
+                                    </a>
                                 </div>
                             </div>
                         </div>

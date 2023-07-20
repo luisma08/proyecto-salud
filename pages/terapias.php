@@ -45,7 +45,7 @@
     <!-- FIN -->
 
     <main class="main">
-        <section class="banner banner__activities my-scroll f-elements f-elements--center my-scroll" id="banner">
+        <section class="banner banner__terapias my-scroll f-elements f-elements--center my-scroll" id="banner">
             <div class="container">
                 <div class="f-elements f-col f-elements--center">
                     <p class="banner__title">Nuestras Terapias</p>

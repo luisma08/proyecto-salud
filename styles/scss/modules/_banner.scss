@@ -56,6 +56,19 @@
         }
     }
 
+    &__terapias{
+        --opacidad-negro: 0.3;
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-terapias.jpeg");
+        height: 220px;
+        background-position: 25% 20%;
+        background-size: 100%;
+
+        @include desktop{
+            height: 360px;
+            padding-bottom: 0;
+        }
+    }
+
     &__container{
         display: flex;
         flex-direction: column;

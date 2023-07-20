@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- ICON -->
-    <link rel="shortcut icon" href="./assets/icon/favicon.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="./assets/icon/favicon-sancamilo.ico" type="image/x-icon">
 
     <title>404 | Pagina no encontrada</title>
 

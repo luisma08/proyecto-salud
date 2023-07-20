@@ -72,7 +72,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Ropa y Calzado</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/ropa-y-calzado.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/ropa-y-calzado.svg" alt="donacion-de-ropa-y-calzado" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -84,7 +84,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Muebles y Estantes</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/muebles.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/muebles.svg" alt="donacion-de-muebles-y-estantes" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -96,7 +96,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Computadoras y Laptops</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/computadoras.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/computadoras.svg" alt="donacion-de-computadoras-y-laptops" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -108,7 +108,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Artefactos Tecnológicos</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/artefactos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/artefactos.svg" alt="donacion-de-artefactos-tecnologicos" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -120,7 +120,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Electrodomésticos y Artefactos</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/electrodomesticos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/electrodomesticos.svg" alt="donacion-de-electrodomesticos" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -132,7 +132,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Bienes e Inmuebles</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/bienes-e-inmuebles.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/bienes-e-inmuebles.svg" alt="donacion-de-bienes-e-inmuebles" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -144,7 +144,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Juguetes y Muñecas</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/juguetes.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/juguetes.svg" alt="donacion-de-juguetes" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -156,7 +156,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Ortopédicos</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/ortopedicos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/ortopedicos.svg" alt="donacion-de-ortopedicos" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -168,7 +168,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Alimentos, Bebidas y Agua</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/alimentos.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/alimentos.svg" alt="donacion-de-alimentos" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -180,7 +180,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Reciclaje General</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-reciclaje-general" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -192,7 +192,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Metales y Chatarra</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-metales-y-chatarra" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -216,7 +216,7 @@
                                                 <h3 class="card__title card__title--secondary">Donación de Vehículos y Motos</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-vehiculos-y-motos" class="icon">
                                             </div>
                                         </div>
                                     </a>
@@ -228,7 +228,7 @@
                                                 <h3 class="card__title card__title--secondary">Traperos de Emaús</h3>
                                             </div>
                                             <div class="card__icon f-elements f-elements--center">
-                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-de-cosas-usadas" class="icon">
+                                                <img src="./assets/icon/reciclaje.svg" alt="donacion-por-distritos" class="icon">
                                             </div>
                                         </div>
                                     </a>

@@ -317,32 +317,32 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/bastones-1.jpeg" alt="donacion-nueva-esperanza-1" class="card__img">
+                                        <img src="./assets/img/actividades/bastones-1.jpeg" alt="bastones" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/pañales-3.jpeg" alt="donacion-nueva-esperanza-2" class="card__img">
+                                        <img src="./assets/img/actividades/pañales-3.jpeg" alt="pañales" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/muletas-1.jpeg" alt="donacion-nueva-esperanza-3" class="card__img">
+                                        <img src="./assets/img/actividades/muletas-1.jpeg" alt="muletas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/andadores-1.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
+                                        <img src="./assets/img/actividades/andadores-1.jpeg" alt="andadores" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/silla-de-ruedas-1.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
+                                        <img src="./assets/img/actividades/silla-de-ruedas-1.jpeg" alt="silla-de-ruedas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/andadores-2.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
+                                        <img src="./assets/img/actividades/andadores-2.jpeg" alt="andadores" class="card__img">
                                     </div>
                                 </div>
                             </div>

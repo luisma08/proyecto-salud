@@ -20,22 +20,22 @@
     <link rel="shortcut icon" href="./assets/icon/favicon-sancamilo.ico" type="image/x-icon">
 
     <!-- HTML Meta Tags -->
-    <title>Dona Salud ▷ Traperos de Emaús San Camilo: Brindando esperanza y oportunidades a quienes más lo necesitan</title>
-    <meta name="description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Brindemos esperanza y oportunidades a quienes más lo necesitan.">
+    <title>Dona Salud ▷ Traperos de Emaús San Camilo: Se parte del cambio y ayuda a quienes más lo necesitan</title>
+    <meta name="description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Sé parte del cambio y ayuda a los más necesitados desde tu hogar o centro de labores. Podemos darle un segundo uso a todos los artículos que ya no uses, asi cuidamos el medio ambiente y ayudamos a quienes más lo necesitan.">
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://emaussancamilo.org">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Dona Salud ▷ Traperos de Emaús San Camilo: Brindando esperanza y oportunidades a quienes más lo necesitan">
-    <meta property="og:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Brindemos esperanza y oportunidades a quienes más lo necesitan.">
+    <meta property="og:title" content="Dona Salud ▷ Traperos de Emaús San Camilo: Se parte del cambio y ayuda a quienes más lo necesitan">
+    <meta property="og:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Sé parte del cambio y ayuda a los más necesitados desde tu hogar o centro de labores. Podemos darle un segundo uso a todos los artículos que ya no uses, asi cuidamos el medio ambiente y ayudamos a quienes más lo necesitan.">
     <meta property="og:image" content="https://emaussancamilo.org/assets/img/logo.webp">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="emaussancamilo.org">
     <meta property="twitter:url" content="https://emaussancamilo.org">
-    <meta name="twitter:title" content="Dona Salud ▷ raperos de Emaús San Camilo: Brindando esperanza y oportunidades a quienes más lo necesitan">
-    <meta name="twitter:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Brindemos esperanza y oportunidades a quienes más lo necesitan.">
+    <meta name="twitter:title" content="Dona Salud ▷ Traperos de Emaús San Camilo: Se parte del cambio y ayuda a quienes más lo necesitan">
+    <meta name="twitter:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Sé parte del cambio y ayuda a los más necesitados desde tu hogar o centro de labores. Podemos darle un segundo uso a todos los artículos que ya no uses, asi cuidamos el medio ambiente y ayudamos a quienes más lo necesitan.">
     <meta name="twitter:image" content="https://emaussancamilo.org/assets/img/logo.webp">
 
 </head>
@@ -307,38 +307,41 @@
 
         <section class="section" id="actividades">
             <div class="container">
-                <div class="f-elements f-col border p-responsive--section gap-sm">
-                    <p class="section__title section__title--primary text-uppercase">Conoce nuestras <span class="section__title--span">Últimas Actividades <i class="bi bi-heart-fill"></i></span></p>
+                <div class="f-elements f-col gap-sm">
+                    <p class="section__subtitle section__subtitle--third text-uppercase">Conoce nuestras</p>
+                    <p class="section__title section__title--primary">
+                        <span class="section__title--span">Últimas Actividades <i class="bi bi-heart-fill"></i></span>
+                    </p>
                     <div class="f-elements f-col f-elements--center gap-md py-md">
                         <div class="swiper mySwiperActivity1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="card">
+                                    <div class="card mx-auto">
                                         <img src="./assets/img/actividades/bastones-1.jpeg" alt="donacion-nueva-esperanza-1" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card">
+                                    <div class="card mx-auto">
                                         <img src="./assets/img/actividades/pañales-3.jpeg" alt="donacion-nueva-esperanza-2" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card">
+                                    <div class="card mx-auto">
                                         <img src="./assets/img/actividades/muletas-1.jpeg" alt="donacion-nueva-esperanza-3" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card">
+                                    <div class="card mx-auto">
                                         <img src="./assets/img/actividades/andadores-1.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card">
+                                    <div class="card mx-auto">
                                         <img src="./assets/img/actividades/silla-de-ruedas-1.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card">
+                                    <div class="card mx-auto">
                                         <img src="./assets/img/actividades/andadores-2.jpeg" alt="donacion-nueva-esperanza-4" class="card__img">
                                     </div>
                                 </div>
@@ -347,7 +350,7 @@
                             <div class="swiper-pagination mt-auto"></div>
                             -->
                         </div>
-                        <a class="button button--primary" href="./actividades-sociales.php"><i class="bi bi-balloon-heart"></i> Ver más Actividades</a>
+                        <a class="button button--primary" href="/actividades-sociales"><i class="bi bi-balloon-heart"></i> Ver más Actividades</a>
                     </div>
                 </div>
             </div>

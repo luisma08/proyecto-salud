@@ -38,14 +38,20 @@
       font-weight: 700;
       font-size: 28px;
       line-height: 34px;
-      text-align: left;
 
       &--primary{
         color: var(--reverse-primary-text-color);
+        text-align: left;
       }
 
       &--secondary{
         color: var(--primary-span-color);
+        text-align: left;
+      }
+
+      &--third{
+        color: var(--reverse-primary-text-color);
+        text-align: center;
       }
     }
 

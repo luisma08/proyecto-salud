@@ -56,7 +56,7 @@
       object-fit: cover;
 
       @include desktop{
-        height: 550px;
+        height: 450px;
       }
     }
 
@@ -76,7 +76,7 @@
     
       
     &__body {
-      background-color: var(--reverse-secondary-shadow-color);
+      background-color: var(--primary-bg-color);
       padding: 1rem;
       height: 180px;
 

@@ -125,6 +125,14 @@
                                     <circle cx="8" cy="8" r="8"/>
                                 </svg>
                             </div>
+                            <a href="/terapias" class="list__link my-auto" id="social-text-2">Terapias</a>
+                        </li>
+                        <li class="social__nav-item f-elements gap-sm">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="currentColor" class="bi bi-circle-fill" color="#FF3586" viewBox="0 0 16 16">
+                                    <circle cx="8" cy="8" r="8"/>
+                                </svg>
+                            </div>
                             <a href="#contact" class="list__link my-auto" id="social-text-2">Contacto</a>
                         </li>
                     </ul>

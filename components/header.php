@@ -51,6 +51,9 @@
                         <li>
                             <a href="/actividades-sociales" class="list__link--menu">Actividades Sociales</a>
                         </li>
+                        <li>
+                            <a href="/terapias" class="list__link--menu">Terapias</a>
+                        </li>
                     </ul>
                 </div>
                 <div class="f-elements f-elements--center">

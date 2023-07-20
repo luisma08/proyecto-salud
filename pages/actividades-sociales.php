@@ -58,7 +58,7 @@
         <section class="section" id="actividades">
             <div class="container">
                 <div class="f-elements f-col gap-sm">
-                    <p class="section__subtitle section__subtitle--third text-uppercase">Donacion de <span class="section__title--span">Colchas</span></p>
+                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación de <span class="section__title--span">Colchas</span></p>
                     <div class="f-elements f-col f-elements--center gap-md py-md">
                         <div class="swiper mySwiperActivity1">
                             <div class="swiper-wrapper">
@@ -122,7 +122,7 @@
         <section class="section" id="actividades">
             <div class="container">
                 <div class="f-elements f-col gap-sm">
-                    <p class="section__subtitle section__subtitle--third text-uppercase">Donacion de <span class="section__title--span">Ropa</span></p>
+                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación de <span class="section__title--span">Ropa</span></p>
                     <div class="f-elements f-col f-elements--center gap-md py-md">
                         <div class="swiper mySwiperActivity2">
                             <div class="swiper-wrapper">
@@ -161,7 +161,7 @@
         <section class="section" id="actividades">
             <div class="container">
                 <div class="f-elements f-col gap-sm">
-                    <p class="section__subtitle section__subtitle--third text-uppercase">Donacion de <span class="section__title--span">Ortopédicos</span></p>
+                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación de <span class="section__title--span">Ortopédicos</span></p>
                     <div class="f-elements f-col f-elements--center gap-md py-md">
                         <div class="swiper mySwiperActivity3">
                             <div class="swiper-wrapper">

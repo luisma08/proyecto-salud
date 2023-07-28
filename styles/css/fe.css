@@ -224,13 +224,13 @@
 
 .bg-parallax {
   --opacidad-negro: 0.5;
-  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-1.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-movil.jpeg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 @media (min-width: 1024px) {
   .bg-parallax {
-    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-2.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-desktop.jpeg");
     /* Full height */
     height: 18.375rem;
     /* Create the parallax scrolling effect */
@@ -955,10 +955,10 @@
   }
 }
 .banner__activities {
-  --opacidad-negro: 0.5;
-  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-activities.jpeg");
+  --opacidad-negro: 0.4;
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-activities-7.jpeg");
   height: 220px;
-  background-position: top;
+  background-position: 25% 40%;
   background-size: 100%;
 }
 @media (min-width: 1024px) {

@@ -44,11 +44,13 @@
     }
 
     &__activities{
-        --opacidad-negro: 0.5;
-        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-activities.jpeg");
+        --opacidad-negro: 0.4;
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-activities-7.jpeg");
         height: 220px;
-        background-position: top;
+        background-position: 25% 40%;
         background-size: 100%;
+        //background-position: top;
+        //background-size: 100%;
 
         @include desktop{
             height: 360px;

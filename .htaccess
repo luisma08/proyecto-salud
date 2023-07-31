@@ -4,7 +4,7 @@ RewriteBase /
 # Redireccionar a HTTPS sin "www"
 # RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC,OR]
 # RewriteCond %{HTTPS} off
-# RewriteRule ^ https://emaussancamilo.org/$1 [L,R=301]
+# RewriteRule ^ https://emausdonacionessancamilo.org/$1 [L,R=301]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

@@ -48,7 +48,7 @@
         <section class="banner banner__home my-scroll" id="banner">
             <div class="container">
                 <div class="banner__container">
-                    <h1 class="banner__subtitle">Dona Salud.</h1>
+                    <h1 class="banner__subtitle">Donaciones</h1>
                     <p class="banner__title">¡Transforma Vidas!</p>
                     <p class="banner__description">
                         Apoya nuestra terapia vanguardista y brinda esperanza</br> a quienes más lo necesitan.

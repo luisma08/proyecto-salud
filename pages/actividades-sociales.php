@@ -280,6 +280,85 @@
             </div>
         </section>
 
+        <!--  ACTIVIDAD 4 -->
+
+        <section class="section" id="actividades">
+            <div class="container">
+                <div class="f-elements f-col gap-sm">
+                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación de <span class="section__title--span">Juguetes, Ropa y Zapatos</span> - AAHH de Valle Alto - San Gabriel</p>
+                    <div class="f-elements f-col f-elements--center gap-md py-md">
+                        <div class="swiper mySwiperActivity4">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-3.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-4.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-6.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-8.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-10.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-14.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-16.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-18.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-19.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-21.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-22.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-23.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                            </div>
+                            <!--
+                            <div class="swiper-pagination mt-auto"></div>
+                            -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- FIN DE Actividades -->
 
         <section class="section">

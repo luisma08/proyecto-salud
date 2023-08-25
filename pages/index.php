@@ -288,7 +288,7 @@
         </section>
 
         <section class="section">
-            <div class="f-elements f-col f-elements--center gap-sm py-md px-responsive bg-parallax">
+            <div class="f-elements f-col f-elements--center gap-sm py-xl px-responsive bg-parallax">
                 <div class="f-elements f-col gap-sm">
                     <p class="section__title section__title--reverse-primary">¡Sé parte del <span class="section__title--span">cambio!</span></p>
                     <p class="section__description section__description--secondary">
@@ -315,6 +315,16 @@
                     <div class="f-elements f-col f-elements--center gap-md py-md">
                         <div class="swiper mySwiperActivity1">
                             <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-6.jpg" alt="juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-22.jpg" alt="zapatos" class="card__img">
+                                    </div>
+                                </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
                                         <img src="./assets/img/actividades/bastones-1.jpeg" alt="bastones" class="card__img">

@@ -10,11 +10,11 @@
     background-position: center;
     
     &__home{
-        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.png");
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.jpg");
         height: 470px;
         
         @include desktop{
-            height: 511px;
+            height: 650px;
             padding-bottom: 0;
         }
     }

@@ -922,12 +922,12 @@
   background-position: center;
 }
 .banner__home {
-  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.png");
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.jpg");
   height: 470px;
 }
 @media (min-width: 1024px) {
   .banner__home {
-    height: 511px;
+    height: 650px;
     padding-bottom: 0;
   }
 }

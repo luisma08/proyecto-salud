@@ -38,8 +38,33 @@
     <meta name="twitter:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Sé parte del cambio y ayuda a los más necesitados desde tu hogar o centro de labores. Podemos darle un segundo uso a todos los artículos que ya no uses, asi cuidamos el medio ambiente y ayudamos a quienes más lo necesitan.">
     <meta name="twitter:image" content="https://emaussancamilo.org/assets/img/logo.webp">
 
+    <!-- Hotjar Tracking Code for https://emausdonacionessancamilo.org/ -->
+        <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:3631457,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WF7Z47FZ');</script>
+    <!-- End Google Tag Manager -->
+
 </head>
 <body class="body"><!--v1.0-->
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WF7Z47FZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
     <!-- Agregando componente header -->
     <?php include('./components/header.php') ?>
     <!-- FIN -->

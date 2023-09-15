@@ -210,6 +210,7 @@ var swiperActivity4 = new Swiper(slideContainerActivity4, {
 });
 
 var swiperDonation = new Swiper(slideContainerDonation, {
+  rewind: true,
   slidesPerView: 1,
   spaceBetween: 10,
   pagination: {
@@ -226,8 +227,6 @@ var swiperDonation = new Swiper(slideContainerDonation, {
       delay:5000,
       disableOnInteraction: false,
   },
-
-  loop: true,
 
   breakpoints: {
       // when window width is >= 320px

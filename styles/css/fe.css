@@ -89,11 +89,11 @@
 }
 
 .my-scroll {
-  margin-top: 13.7rem;
+  margin-top: 17.75rem;
 }
 @media (min-width: 1024px) {
   .my-scroll {
-    margin-top: 8.175rem;
+    margin-top: 11.688rem;
   }
 }
 .my-scroll--1 {
@@ -823,10 +823,10 @@
 }
 .list--header {
   position: fixed;
-  top: 13.7rem;
+  top: 17.5rem;
   left: 0;
   width: 100%;
-  height: calc(100% - 13.7rem);
+  height: calc(100% - 17.5rem);
   background-color: var(--primary-theme-color);
   transform: translateX(var(--translate-list-header));
   transition: transform 0.25s;

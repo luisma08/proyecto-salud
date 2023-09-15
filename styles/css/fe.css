@@ -922,11 +922,12 @@
   background-position: center;
 }
 .banner__home {
-  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-movil.jpg");
   height: 470px;
 }
 @media (min-width: 1024px) {
   .banner__home {
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-desktop.jpg");
     height: 650px;
     padding-bottom: 0;
   }
@@ -1006,9 +1007,9 @@
   margin: 0;
 }
 .banner__title {
-  font-size: 1.75rem;
+  font-size: 3rem;
   color: var(--primary-text-color);
-  line-height: 2.125rem;
+  line-height: normal;
   font-weight: 500;
 }
 @media (min-width: 1024px) {
@@ -1046,6 +1047,7 @@
 @media (min-width: 1024px) {
   .banner__description {
     font-size: 1.225rem;
+    width: 50%;
   }
 }
 .banner__img {

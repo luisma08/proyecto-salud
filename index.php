@@ -16,7 +16,8 @@ $rutas = [
     '/nosotros' => 'nosotros',
     '/donaciones' => 'donaciones',
     '/actividades-sociales' => 'actividades-sociales',
-    '/terapias' => 'terapias'
+    '/terapias' => 'terapias',
+    '/landing' => 'landing'
 ];
 
 // Verificar si la ruta existe en el array de rutas

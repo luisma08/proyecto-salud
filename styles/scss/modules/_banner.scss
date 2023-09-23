@@ -72,6 +72,17 @@
         }
     }
 
+    &__landing{
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-movil.jpg");
+        height: 470px;
+        
+        @include desktop{
+            background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-desktop.jpg");
+            height: 650px;
+            padding-bottom: 0;
+        }
+    }
+
     &__container{
         display: flex;
         flex-direction: column;

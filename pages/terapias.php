@@ -20,13 +20,13 @@
     <link rel="shortcut icon" href="./assets/icon/favicon-sancamilo.ico" type="image/x-icon">
 
     <!-- HTML Meta Tags -->
-    <title>Donaciones ▷ Traperos de Emaús San Camilo: Se parte del cambio y ayuda a quienes más lo necesitan</title>
+    <title>Emaús ▷ San Camilo | Donaciones Lima</title>
     <meta name="description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Sé parte del cambio y ayuda a los más necesitados desde tu hogar o centro de labores. Podemos darle un segundo uso a todos los artículos que ya no uses, asi cuidamos el medio ambiente y ayudamos a quienes más lo necesitan.">
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://emaussancamilo.org">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Dona Salud ▷ Traperos de Emaús San Camilo: Se parte del cambio y ayuda a quienes más lo necesitan">
+    <meta property="og:title" content="Emaús ▷ San Camilo | Donaciones Lima">
     <meta property="og:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Sé parte del cambio y ayuda a los más necesitados desde tu hogar o centro de labores. Podemos darle un segundo uso a todos los artículos que ya no uses, asi cuidamos el medio ambiente y ayudamos a quienes más lo necesitan.">
     <meta property="og:image" content="https://emaussancamilo.org/assets/img/logo.webp">
 
@@ -34,7 +34,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="emaussancamilo.org">
     <meta property="twitter:url" content="https://emaussancamilo.org">
-    <meta name="twitter:title" content="Dona Salud ▷ Traperos de Emaús San Camilo: Se parte del cambio y ayuda a quienes más lo necesitan">
+    <meta name="twitter:title" content="Emaús ▷ San Camilo | Donaciones Lima">
     <meta name="twitter:description" content="Tú puedes marcar la diferencia en Lima, Perú. Dona hoy para ayudar a las personas que más lo necesitan. Únete a nuestra misión de transformar vidas a través de donaciones. Sé parte del cambio y ayuda a los más necesitados desde tu hogar o centro de labores. Podemos darle un segundo uso a todos los artículos que ya no uses, asi cuidamos el medio ambiente y ayudamos a quienes más lo necesitan.">
     <meta name="twitter:image" content="https://emaussancamilo.org/assets/img/logo.webp">
 

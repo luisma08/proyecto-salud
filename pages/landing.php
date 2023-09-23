@@ -39,7 +39,7 @@
     <meta name="twitter:image" content="https://emaussancamilo.org/assets/img/logo.webp">
 
     <!-- Hotjar Tracking Code for https://emausdonacionessancamilo.org/ -->
-        <script>
+    <script>
         (function(h,o,t,j,a,r){
             h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
             h._hjSettings={hjid:3631457,hjsv:6};
@@ -66,14 +66,21 @@
     <!-- End Google Tag Manager (noscript) -->
     
     <!-- Agregando componente header -->
-    <?php include('./components/header.php') ?>
+    <?php include('./components/header-landing.php') ?>
     <!-- FIN -->
 
     <main class="main">
-        <section class="banner banner__donaciones my-scroll f-elements f-elements--center my-scroll" id="banner">
-            <div class="container">
-                <div class="f-elements f-col f-elements--center">
-                    <p class="banner__title">DONACIONES</p>
+        <section class="banner banner__landing" id="banner">
+            <div class="container h-inherit">
+                <div class="f-elements f-col f-elements--responsive-3 h-inherit gap-sm text-responsive">
+                    <h1 class="banner__title">Donaciones que Salvan Vidas</h1>
+                    <p class="banner__description">
+                        Tú puedes marcar la diferencia. Apoya nuestra terapia vanguardista y 
+                        brinda esperanza a quienes más lo necesitan.
+                    </p>
+                    <div class="py-sm">
+                        <a target="_blank" class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> ¡Donar ahora!</a>
+                    </div>
                 </div>
             </div>
         </section>
@@ -82,7 +89,7 @@
         <section class="section" id="donaciones">
             <div class="container">
                 <div class="f-elements f-col f-elements--center gap-md">
-                    <p class="section__title section__title--primary">¿Qué puedes <span class="section__title--span">donar?</span></p>
+                    <p class="section__title section__title--primary">Realizar una <span class="section__title--span">donación</span></p>
                     <div class="slider f-elements f-col f-elements--center">
                         <div class="swiper mySwiperDonation">
                             <div class="f-elements f-elements--end gap-sm py-sm">
@@ -813,37 +820,111 @@
 
         <!-- FIN DE DONACIONES -->
 
-        <section class="section">
-            <div class="f-elements f-col f-elements--center gap-sm py-md px-responsive bg-parallax">
+        <!--  ACTIVIDAD 1 -->
+
+        <section class="section bg-light-rose" id="actividades">
+            <div class="container">
                 <div class="f-elements f-col gap-sm">
-                    <p class="section__title section__title--reverse-primary">¡Sé parte del <span class="section__title--span">cambio!</span></p>
-                    <p class="section__description section__description--secondary">
-                        Con Traperos de Emaús San Camilo, tienes la oportunidad de ofrecer asistencia a aquellos que más lo necesitan mediante 
-                        donaciones desde la comodidad de tu hogar o lugar de trabajo. Recolectamos de forma gratuita en toda Lima y Callao, 
-                        asegurando el cumplimiento de todos los protocolos de bioseguridad.
-                    </p>
-                </div>
-                <div class="f-elements f-col f-elements--center">
-                    <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Haz tu donación</a>
+                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación de <span class="section__title--span">Juguetes, Ropa y Zapatos</span></p>
+                    <p class="section__subtitle section__subtitle--third text-uppercase">AAHH de Valle Alto - San Gabriel</p>
+                    <div class="f-elements f-col f-elements--center gap-md py-md">
+                        <div class="swiper mySwiperActivity4">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-3.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-4.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-6.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-8.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-10.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-14.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-16.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-18.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-19.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-21.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-22.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-23.jpg" alt="donacion-juguetes" class="card__img">
+                                    </div>
+                                </div>
+                            </div>
+                            <!--
+                            <div class="swiper-pagination mt-auto"></div>
+                            -->
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
-        
-        <!-- Agregando componente footer -->
-        <?php include('./components/contact.php') ?>
-        <!-- FIN -->
 
-        <section class="section">
+        <!-- CTA -->
+
+        <section class="section bg-rose">
+            <div class="container">
+                <div class="g-elements g-elements--responsive g-elements--responsive-align bg-parallax gap-sm">
+                    <div class="f-elements f-col gap-sm">
+                        <p class="section__title section__title--reverse-primary">!Actúa ahora y sé parte del cambio. Dona y salva vidas!</span></p>
+                        <p class="section__description section__description--secondary">
+                            Tu aporte marca la diferencia para más familias
+                        </p>
+                    </div>
+                    <div class="f-elements f-col f-elements--center mt-auto">
+                        <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Deseo Donar</a>
+                    </div>
+                </div>
+            </div>
         </section>
+
     </main>
 
     <!-- Agregando componente footer -->
     <?php include('./components/footer.php') ?>
     <!-- FIN -->
     
-    <script src="./js/header.js?ver=1.5.1"></script>
     <script src="./js/swiper.js?ver=1.5.1" type="module"></script>
     <script src="./js/showDonation.js?ver=1.5.1"></script>
-    
 </body>
 </html>

@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.text-responsive {
+  text-align: center;
+}
+@media (min-width: 1024px) {
+  .text-responsive {
+    text-align: start;
+  }
+}
+
 .text-uppercase {
   text-transform: uppercase;
 }
@@ -422,6 +431,14 @@
   height: 100vh;
 }
 
+.h-100 {
+  height: 100%;
+}
+
+.h-inherit {
+  height: inherit;
+}
+
 .more {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 82.01%);
   height: 332px;
@@ -657,6 +674,10 @@
   align-items: start;
   justify-content: center;
 }
+.f-elements--align-center {
+  align-items: center;
+  justify-content: start;
+}
 .f-elements--end {
   align-items: end;
   justify-content: end;
@@ -681,6 +702,16 @@
     justify-content: space-between;
   }
 }
+.f-elements--responsive-3 {
+  align-items: center;
+  justify-content: center;
+}
+@media (min-width: 1024px) {
+  .f-elements--responsive-3 {
+    align-items: start;
+    justify-content: center;
+  }
+}
 
 .g-elements {
   display: grid;
@@ -697,6 +728,18 @@
   align-items: center;
   justify-content: center;
   justify-items: center;
+}
+.g-elements--responsive-align {
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+@media (min-width: 1024px) {
+  .g-elements--responsive-align {
+    align-items: center;
+    justify-content: start;
+    justify-items: start;
+  }
 }
 
 .g-template-columns {
@@ -982,6 +1025,17 @@
     padding-bottom: 0;
   }
 }
+.banner__landing {
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-movil.jpg");
+  height: 470px;
+}
+@media (min-width: 1024px) {
+  .banner__landing {
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-desktop.jpg");
+    height: 650px;
+    padding-bottom: 0;
+  }
+}
 .banner__container {
   display: flex;
   flex-direction: column;
@@ -1198,13 +1252,8 @@
 .card__img {
   display: flex;
   width: 100%;
-  height: auto;
+  height: 350px;
   object-fit: cover;
-}
-@media (min-width: 1024px) {
-  .card__img {
-    height: 450px;
-  }
 }
 .card__icon {
   width: 50px;

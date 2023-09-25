@@ -29,6 +29,16 @@
         font-weight: 700;
       }
 
+      &--responsive{
+        text-align: center;
+        color:var(--secondary-p-color);
+        font-weight: 700;
+
+        @include desktop{
+          text-align: left;
+        }
+      }
+
       &--span{
         color:var(--primary-span-color);
       }
@@ -53,6 +63,11 @@
         color: var(--reverse-primary-text-color);
         text-align: center;
       }
+
+      &--reverse-third{
+        color: var(--primary-text-color);
+        text-align: center;
+      }
     }
 
     &__description{
@@ -64,8 +79,8 @@
           line-height: 1.125rem;
 
           @include desktop{
-            font-size: var(--secondary-p-font-size);
-            line-height: 1.375rem;
+            font-size: 1.875rem;
+            line-height: normal;
           }
         }
 
@@ -85,6 +100,12 @@
         &--reverse-secondary{
           text-align: center;
           color: var(--primary-p-color);
+          font-size: var(--primary-p-font-size);
+          line-height: normal;
+
+          @include desktop{
+            font-size: 1.813rem;
+          }
         }
 
         &--responsive{
@@ -116,7 +137,6 @@
     &__text{
       font-size: var(--fifth-text-font-size);
       line-height: 1.5rem;
-      color: var(--primary-text-color);
       margin: 0;
 
       @include desktop{
@@ -126,18 +146,19 @@
 
       &--primary{
         text-align: center;
+        color: var(--primary-text-color);
+
+      }
+
+      &--reverse-primary{
+        text-align: center;
+        color: var(--reverse-primary-text-color);
       }
 
       &--secondary{
-        text-align: left;
-      }
-
-      &--responsive{
         text-align: center;
-
-        @include desktop{
-          text-align: left;
-        }
+        color: var(--secondary-text-color);
+        font-weight: 700;
       }
 
     }

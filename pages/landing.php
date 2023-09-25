@@ -818,15 +818,61 @@
             </div>
         </section>
 
+        <section class="section">
+            <div class="container p-relative py-xl">
+                <div class="f-elements f-col f-elements--center md:p-absolute top-0 md:p-left">
+                    <img src="./assets/img/hearts.png" alt="">
+                </div>
+                <p class="section__description section__description--reverse-secondary">
+                    Tu generosidad puede marcar la diferencia.</br>
+                    Imagina un mundo donde cada donación ofrece esperanza a quienes más lo necesitan.
+                    Con tu apoyo, podemos transformar vidas y construir un futuro mejor, Cada donación cuenta.
+                </p>
+                <p class="section__text section__text--secondary text-uppercase">
+                    ¡Actúa ahora!  Haz tu donación y sé parte del cambio que tanto necesitamos.
+                </p>
+                <p class="section__description section__description--reverse-secondary">
+                    Juntos, podemos brindar esperanza a quienes más lo necesitan. Dona hoy y haz una diferencia real.
+                </p>
+            </div>
+        </section>
+        
+        <!--   QUIENES SOMOS  -->
+
+        <section class="section">
+            <div class="container">
+                <div class="g-elements g-elements--responsive gap-md">
+                    <div class="f-elements f-col f-elements--center">
+                        <img class="section__img" src="./assets/img/nosotros/nosotros-8.png" alt="">
+                    </div>
+                    <div class="f-elements f-col f-elements--justify-center gap-sm my-auto">
+                        <p class="section__title section__title--secondary">¿Quiénes <span class="section__title--span">Somos?</span></p>
+                        <p class="section__description section__description--primary">Somos un apasionado grupo de individuos con una fuerte vocación social que trabaja incansablemente
+                            con un profundo amor por aquellos que menos tienen. Nuestra misión principal es difundir y promover nuestra labor, buscando donaciones tanto de personas como
+                            de empresas e instituciones privadas y públicas. De esta manera, podemos continuar brindando ayuda y apoyo a las familias peruanas que más lo necesitan.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- FIN DE DONACIONES -->
+
+        <section class="section">
+            <div class="container">
+                <p class="section__text section__text--secondary text-uppercase">
+                    ¡Pequeñas acciones hacen la diferencia!
+                </p>
+            </div>
+        </section>
 
         <!--  ACTIVIDAD 1 -->
 
         <section class="section bg-light-rose" id="actividades">
             <div class="container">
                 <div class="f-elements f-col gap-sm">
-                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación de <span class="section__title--span">Juguetes, Ropa y Zapatos</span></p>
-                    <p class="section__subtitle section__subtitle--third text-uppercase">AAHH de Valle Alto - San Gabriel</p>
+                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación en <span class="section__title--span">Asentamiento Humano</span> de Valle Alto</p>
+                    <p class="section__text section__text--reverse-primary">San Gabriel, Lima</p>
                     <div class="f-elements f-col f-elements--center gap-md py-md">
                         <div class="swiper mySwiperActivity4">
                             <div class="swiper-wrapper">
@@ -902,17 +948,17 @@
 
         <!-- CTA -->
 
-        <section class="section bg-rose">
+        <section class="section bg-dark-rose">
             <div class="container">
-                <div class="g-elements g-elements--responsive g-elements--responsive-align bg-parallax gap-sm">
+                <div class="g-elements g-elements--responsive g-elements--responsive-align bg-parallax gap-sm border-cta">
                     <div class="f-elements f-col gap-sm">
-                        <p class="section__title section__title--reverse-primary">!Actúa ahora y sé parte del cambio. Dona y salva vidas!</span></p>
-                        <p class="section__description section__description--secondary">
+                        <p class="section__title section__title--responsive">!Actúa ahora y sé parte del cambio. Dona y salva vidas!</span></p>
+                        <p class="section__description section__description--reverse-responsive">
                             Tu aporte marca la diferencia para más familias
                         </p>
                     </div>
-                    <div class="f-elements f-col f-elements--center mt-auto">
-                        <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Deseo Donar</a>
+                    <div class="f-elements f-col f-elements--center mt-auto mx-auto">
+                        <a class="button button--outline-primary" target="_blank" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> Deseo Donar</a>
                     </div>
                 </div>
             </div>

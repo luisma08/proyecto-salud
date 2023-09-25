@@ -44,10 +44,6 @@
     }
 }
 
-.p-relative {
-    position: relative;
-}
-
 .m-0{
     margin: 0;
 }
@@ -174,6 +170,20 @@
     }
 }
 
+.md\:p-absolute{
+    @include desktop{
+        position: absolute;
+    }
+}
+
+.left-0{
+    left: 0;
+}
+
+.top-0{
+    top: 0;
+}
+
 .md\:f-row{
     @include desktop{
         flex-direction: row;
@@ -228,16 +238,23 @@
     background-color: var(--secondary-theme-color);
 }
 
+.bg-dark-rose{
+    background-color: #9d1759;
+}
+
 .bg-parallax{
     --opacidad-negro: 0.5;
     background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-movil.jpeg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    mix-blend-mode: luminosity;
+    box-sizing: border-box;
+    padding: 2.5rem;
 
     @include desktop{
         background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-desktop.jpeg");
         /* Full height */
-        height: 18.375rem;
+        height: auto;
 
         /* Create the parallax scrolling effect */
         background-attachment: fixed;
@@ -347,6 +364,12 @@
         padding-right: 40px;
         padding-top: 80px;
         padding-bottom: 50px;
+    }
+}
+
+.md\:p-left{
+    @include desktop{
+        padding-left: 10rem;
     }
 }
 

@@ -47,10 +47,6 @@
   }
 }
 
-.p-relative {
-  position: relative;
-}
-
 .m-0 {
   margin: 0;
 }
@@ -179,6 +175,20 @@
 }
 
 @media (min-width: 1024px) {
+  .md\:p-absolute {
+    position: absolute;
+  }
+}
+
+.left-0 {
+  left: 0;
+}
+
+.top-0 {
+  top: 0;
+}
+
+@media (min-width: 1024px) {
   .md\:f-row {
     flex-direction: row;
   }
@@ -231,17 +241,24 @@
   background-color: var(--secondary-theme-color);
 }
 
+.bg-dark-rose {
+  background-color: #9d1759;
+}
+
 .bg-parallax {
   --opacidad-negro: 0.5;
   background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-movil.jpeg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  mix-blend-mode: luminosity;
+  box-sizing: border-box;
+  padding: 2.5rem;
 }
 @media (min-width: 1024px) {
   .bg-parallax {
     background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-desktop.jpeg");
     /* Full height */
-    height: 18.375rem;
+    height: auto;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -357,6 +374,12 @@
     padding-right: 40px;
     padding-top: 80px;
     padding-bottom: 50px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .md\:p-left {
+    padding-left: 10rem;
   }
 }
 
@@ -499,6 +522,16 @@
   color: var(--secondary-p-color);
   font-weight: 700;
 }
+.section__title--responsive {
+  text-align: center;
+  color: var(--secondary-p-color);
+  font-weight: 700;
+}
+@media (min-width: 1024px) {
+  .section__title--responsive {
+    text-align: left;
+  }
+}
 .section__title--span {
   color: var(--primary-span-color);
 }
@@ -519,6 +552,10 @@
   color: var(--reverse-primary-text-color);
   text-align: center;
 }
+.section__subtitle--reverse-third {
+  color: var(--primary-text-color);
+  text-align: center;
+}
 .section__description {
   margin: 0;
 }
@@ -528,8 +565,8 @@
 }
 @media (min-width: 1024px) {
   .section__description--primary, .section__description--secondary {
-    font-size: var(--secondary-p-font-size);
-    line-height: 1.375rem;
+    font-size: 1.875rem;
+    line-height: normal;
   }
 }
 .section__description--primary, .section__description--responsive {
@@ -545,6 +582,13 @@
 .section__description--reverse-secondary {
   text-align: center;
   color: var(--primary-p-color);
+  font-size: var(--primary-p-font-size);
+  line-height: normal;
+}
+@media (min-width: 1024px) {
+  .section__description--reverse-secondary {
+    font-size: 1.813rem;
+  }
 }
 .section__description--responsive {
   text-align: center;
@@ -574,7 +618,6 @@
 .section__text {
   font-size: var(--fifth-text-font-size);
   line-height: 1.5rem;
-  color: var(--primary-text-color);
   margin: 0;
 }
 @media (min-width: 1024px) {
@@ -585,17 +628,16 @@
 }
 .section__text--primary {
   text-align: center;
+  color: var(--primary-text-color);
+}
+.section__text--reverse-primary {
+  text-align: center;
+  color: var(--reverse-primary-text-color);
 }
 .section__text--secondary {
-  text-align: left;
-}
-.section__text--responsive {
   text-align: center;
-}
-@media (min-width: 1024px) {
-  .section__text--responsive {
-    text-align: left;
-  }
+  color: var(--secondary-text-color);
+  font-weight: 700;
 }
 .section__p {
   margin: 0;
@@ -1123,7 +1165,7 @@
   border: 0.0625rem solid var(--primary-theme-color);
   border-radius: var(--primary-border-radius);
   color: var(--primary-text-color);
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   text-decoration: none;
   font-weight: 600;
   font-family: var(--primary-font-family);
@@ -1135,7 +1177,7 @@
 }
 @media (min-width: 1024px) {
   .button {
-    font-size: 1.2rem;
+    font-size: 2.188rem;
   }
 }
 .button:hover {

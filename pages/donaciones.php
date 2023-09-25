@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles/css/style.css?ver=1.5.1">
-    <link rel="stylesheet" href="./styles/css/fe.css?ver=1.5.1">
+    <link rel="stylesheet" href="./styles/css/style.css?ver=1.5.2">
+    <link rel="stylesheet" href="./styles/css/fe.css?ver=1.5.2">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
     <link
       rel="stylesheet"
@@ -841,9 +841,9 @@
     <?php include('./components/footer.php') ?>
     <!-- FIN -->
     
-    <script src="./js/header.js?ver=1.5.1"></script>
-    <script src="./js/swiper.js?ver=1.5.1" type="module"></script>
-    <script src="./js/showDonation.js?ver=1.5.1"></script>
+    <script src="./js/header.js?ver=1.5.2"></script>
+    <script src="./js/swiper.js?ver=1.5.2" type="module"></script>
+    <script src="./js/showDonation.js?ver=1.5.2"></script>
     
 </body>
 </html>

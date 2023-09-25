@@ -33,9 +33,7 @@
     <div class="container bg-white">
         <nav class="nav f-elements f-elements--responsive-2 f-col md:f-row py-sm" id="header-nav">
             <div class="header__container-logo">
-                <a href="/">
-                    <img src="./assets/img/logo-sancamilo.png" alt="logo" class="nav__logo">
-                </a>
+                <img src="./assets/img/logo-sancamilo.png" alt="logo" class="nav__logo">
             </div>
         </nav>
     </div>

@@ -3,9 +3,9 @@
         <div class="g-elements g-elements--responsive gap-md py-md">
             <div class="f-elements f-col">
                 <div class="f-elements f-col gap-md">
-                    <a href="index.html" class="f-elements mx-responsive">
+                    <div class="f-elements mx-responsive">
                         <img src="./assets/img/logo-sancamilo.png" alt="logo" class="footer__logo">
-                    </a>
+                    </div>
                     <p class="footer__description footer__description--secondary">
                         Traperos de Emaús San Camilo es una institución sin fines de lucro que desde 2013 
                         ayuda muchas familias en situación vulnerable, incluso durante la pandemia.
